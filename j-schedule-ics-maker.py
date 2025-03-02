@@ -57,15 +57,12 @@ def get_stadium_name(domain, match_tag):
     return ""
 
 
-def get_rival_team_name(match_tag):
+def get_name_of_teams(match_tag):
     left_team = match_tag.find(
         "td", class_="clubName leftside").get_text(strip=True)
     right_team = match_tag.find(
         "td", class_="clubName rightside").get_text(strip=True)
-    if left_team != "横浜FM":
-        return left_team
-    else:
-        return right_team
+    return f"{left_team}vs{right_team}"
 
 
 def get_note_text(match_tag):
@@ -87,7 +84,7 @@ def get_matches(url):
         match["日付"] = get_date(match_tag)
         match["時刻"] = get_time(match_tag)
         match["スタジアム"] = get_stadium_name(domain, match_tag)
-        match["対戦チーム名"] = get_rival_team_name(match_tag)
+        match["対戦チーム名"] = get_name_of_teams(match_tag)
         match["補足事項"] = get_note_text(match_tag)
         matches.append(match)
     return matches
@@ -153,7 +150,7 @@ def get_ics_lines(matches):
     jst = timezone('Asia/Tokyo')
     for match in matches:
         event = Event()
-        event.name = f"vs {match['対戦チーム名']}@{match['スタジアム']} {match['時刻']}〜"
+        event.name = f"{match['対戦チーム名']} @{match['スタジアム']} {match['時刻']}〜"
         event.location = match['スタジアム']
         event.description = match['補足事項']
         ymdhm = f"{match['日付']} {match['時刻']}"
@@ -214,10 +211,11 @@ def main():
     new_ics_lines = get_ics_lines(matches)
 
     for i, new_ics_line in enumerate(new_ics_lines):
-        for old_ics_line in old_ics_lines:
+        for j, old_ics_line in enumerate(old_ics_lines):
             if get_matchname(new_ics_line) == get_matchname(old_ics_line):
                 new_ics_lines[i] = get_ics_line_uid_changed(
                     new_ics_line, get_uid(old_ics_line))
+                old_ics_lines[j] = None
 
     save_ics_lines(filename, new_ics_lines)
 
