@@ -172,7 +172,6 @@ def get_ics_lines(matches):
 
     ics_lines1 = convert_icstext2lines(str(calendar))
     events1 = [r for r in ics_lines1 if "DTSTART" in r]
-    # events2 = sorted(events1, key=lambda x: get_dtstart(x))
     ics_lines2 = [ics_lines1[0]]
     for event in events1:
         ics_lines2.append(event)
