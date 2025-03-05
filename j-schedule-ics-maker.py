@@ -216,6 +216,7 @@ def main():
                 new_ics_lines[i] = get_ics_line_uid_changed(
                     new_ics_line, get_uid(old_ics_line))
                 old_ics_lines[j] = None
+                break
 
     save_ics_lines(filename, new_ics_lines)
 
