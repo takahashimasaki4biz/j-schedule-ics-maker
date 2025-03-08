@@ -16,6 +16,71 @@ warnings.filterwarnings(
     message="Behaviour of str\\(Component\\) will change in version 0.9"
 )
 
+clubs = [
+    "akita",
+    "chiba",
+    "cosaka",
+    "ehime",
+    "fosaka",
+    "ftokyo",
+    "fujieda",
+    "fukuoka",
+    "fukushima",
+    "gifu",
+    "gosaka",
+    "hachinohe",
+    "hiroshima",
+    "imabari",
+    "iwaki",
+    "iwata",
+    "kagoshima",
+    "kanazawa",
+    "kashima",
+    "kashiwa",
+    "kawasakif",
+    "kitakyushu",
+    "kobe",
+    "kochi",
+    "kofu",
+    "kumamoto",
+    "kusatsu",
+    "kyoto",
+    "machida",
+    "matsumoto",
+    "mito",
+    "miyazaki",
+    "nagano",
+    "nagasaki",
+    "nagoya",
+    "nara",
+    "niigata",
+    "numazu",
+    "oita",
+    "okayama",
+    "omiya",
+    "ryukyu",
+    "sagamihara",
+    "sanuki",
+    "sapporo",
+    "sendai",
+    "shimizu",
+    "shonan",
+    "tochigi",
+    "tochigic",
+    "tokushima",
+    "tokyov",
+    "tosu",
+    "tottori",
+    "toyama",
+    "urawa",
+    "yamagata",
+    "yamaguchi",
+    "yokohamafc",
+    "yokohamafm",
+]
+
+name_of_stadiums = {}
+
 
 def zen_to_han(text):
     han1 = text.translate(str.maketrans(
@@ -50,10 +115,15 @@ def get_time(match_tag):
 
 def get_stadium_name(domain, match_tag):
     a_tag = match_tag.find("td", class_="match").find("a")
+    short_stadium_name = a_tag.get_text(strip=True)
+    if short_stadium_name in name_of_stadiums:
+        return name_of_stadiums[short_stadium_name]
     soup2 = get_soup(domain + a_tag["href"])
     stadium_name_tag = soup2.find("span", class_="matchVsTitle__stadium")
     if stadium_name_tag:
-        return stadium_name_tag.get_text(strip=True)
+        full_stadium_name = stadium_name_tag.get_text(strip=True)
+        name_of_stadiums[short_stadium_name] = full_stadium_name
+        return full_stadium_name
     return ""
 
 
@@ -80,13 +150,16 @@ def get_matches(url):
     match_tags = get_match_tags(soup)
     matches = []
     for match_tag in match_tags:
-        match = {}
-        match["日付"] = get_date(match_tag)
-        match["時刻"] = get_time(match_tag)
-        match["スタジアム"] = get_stadium_name(domain, match_tag)
-        match["対戦チーム名"] = get_name_of_teams(match_tag)
-        match["補足事項"] = get_note_text(match_tag)
-        matches.append(match)
+        try:
+            match = {}
+            match["日付"] = get_date(match_tag)
+            match["時刻"] = get_time(match_tag)
+            match["スタジアム"] = get_stadium_name(domain, match_tag)
+            match["対戦チーム名"] = get_name_of_teams(match_tag)
+            match["補足事項"] = get_note_text(match_tag)
+            matches.append(match)
+        except:
+            pass
     return matches
 
 
@@ -193,22 +266,19 @@ def save_ics_lines(filename, ics_lines):
         for line in ics_lines:
             line2 = line.replace("END:VALARM", "ATTENDEE:\nEND:VALARM")
             f.write(line2)
-    print(f"\nSaved {filename}")
+    print(f"Saved {filename}")
 
 
-def main():
-    filename = "j-schedule-ics-maker.ics"
+def make_ics(clubname, year):
+    filename = f"all-clubs-ics/{clubname}.ics"
     old_ics_lines = load_ics_lines(filename)
-
-    # url = "https://www.jleague.jp/match/search/?category%5B%5D=j1&category%5B%5D=leaguecup&category%5B%5D=j2&category%5B%5D=j3&category%5B%5D=playoff&category%5B%5D=j2playoff&category%5B%5D=J3jflplayoff&category%5B%5D=emperor&category%5B%5D=acle&category%5B%5D=acl2&category%5B%5D=acl&category%5B%5D=fcwc&category%5B%5D=supercup&category%5B%5D=asiachallenge&category%5B%5D=jwc&club%5B%5D=yokohamafm&year=2025&month%5B%5D=01&month%5B%5D=02&month%5B%5D=03&month%5B%5D=04&month%5B%5D=05&month%5B%5D=06&month%5B%5D=07&month%5B%5D=08&month%5B%5D=09&month%5B%5D=10&month%5B%5D=11&month%5B%5D=12&tba=1"
-    if len(sys.argv) < 2:
-        print("Usage: {sys.argv[0]} <URL>")
-        sys.exit(1)
-    url = sys.argv[1]
-
+    url = "https://www.jleague.jp/match/search/?category%5B%5D=j1&category%5B%5D=leaguecup&category%5B%5D=j2&category%5B%5D=j3&category%5B%5D=playoff&category%5B%5D=j2playoff&category%5B%5D=J3jflplayoff&category%5B%5D=emperor&category%5B%5D=acle&category%5B%5D=acl2&category%5B%5D=acl&category%5B%5D=fcwc&category%5B%5D=supercup&category%5B%5D=asiachallenge&category%5B%5D=jwc&club%5B%5D="
+    url += clubname
+    url += "&year="
+    url += year
+    url += "&month%5B%5D=01&month%5B%5D=02&month%5B%5D=03&month%5B%5D=04&month%5B%5D=05&month%5B%5D=06&month%5B%5D=07&month%5B%5D=08&month%5B%5D=09&month%5B%5D=10&month%5B%5D=11&month%5B%5D=12&tba=1"
     matches = get_matches(url)
     new_ics_lines = get_ics_lines(matches)
-
     for i, new_ics_line in enumerate(new_ics_lines):
         for j, old_ics_line in enumerate(old_ics_lines):
             if get_matchname(new_ics_line) == get_matchname(old_ics_line):
@@ -216,9 +286,15 @@ def main():
                     new_ics_line, get_uid(old_ics_line))
                 old_ics_lines[j] = None
                 break
-
     save_ics_lines(filename, new_ics_lines)
 
 
 if __name__ == "__main__":
-    main()
+    scriptname = sys.argv[0]
+    if len(sys.argv) != 2:
+        print(f"Usage: {scriptname} <YEAR>")
+        sys.exit(1)
+    year = sys.argv[1]
+    for club in clubs:
+        make_ics(club, year)
+    print("Done.")
