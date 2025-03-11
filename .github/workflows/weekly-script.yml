@@ -2,7 +2,7 @@ name: Run Python Script Weekly
 
 on:
   schedule:
-    - cron: '0 0 * * 0'  # 毎週日曜日の午前0時 (UTC)
+    - cron: '0 0 * * 1'  # 毎週月曜日の午前0時 (UTC)
   workflow_dispatch:  # 手動実行も可能
 
 jobs:
