@@ -1,0 +1,36 @@
+name: Run Python Script Weekly
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # 毎週日曜日の午前0時 (UTC)
+  workflow_dispatch:  # 手動実行も可能
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: リポジトリをチェックアウト
+        uses: actions/checkout@v4
+
+      - name: Pythonをセットアップ
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12.7'
+
+      - name: 依存関係をインストール (必要なら)
+        run: |
+          pip install -r requirements.txt || echo "No dependencies"
+
+      - name: Pythonスクリプトを実行
+        run: python3 j-schedule-ics-maker.py
+
+      - name: Gitの設定
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: 変更をコミット & プッシュ
+        run: |
+          git add .
+          git diff --staged --quiet || (git commit -m "Auto-generated updates" && git push)
