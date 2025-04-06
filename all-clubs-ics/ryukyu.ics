@@ -38,9 +38,9 @@ ATTENDEE:
 END:VALARM
 DESCRIPTION:明治安田J3リーグ第2節
 DTEND:20250222T070300Z
-LOCATION:タピック県総ひやごんスタジアム
+LOCATION:沖縄県総合運動公園陸上競技場
 DTSTART:20250222T050300Z
-SUMMARY:琉球vsFC大阪 @タピック県総ひやごんスタジアム 14:03〜
+SUMMARY:琉球vsFC大阪 @沖縄県総合運動公園陸上競技場 14:03〜
 UID:f160d46c-fc4c-48be-aee8-fd3b0a3cbb81@f160.org
 END:VEVENT
 BEGIN:VEVENT
@@ -59,9 +59,9 @@ ATTENDEE:
 END:VALARM
 DESCRIPTION:明治安田J3リーグ第3節
 DTEND:20250301T070300Z
-LOCATION:タピック県総ひやごんスタジアム
+LOCATION:沖縄県総合運動公園陸上競技場
 DTSTART:20250301T050300Z
-SUMMARY:琉球vs福島 @タピック県総ひやごんスタジアム 14:03〜
+SUMMARY:琉球vs福島 @沖縄県総合運動公園陸上競技場 14:03〜
 UID:5d4bc2e1-1e30-40fd-918d-a1349deb8f90@5d4b.org
 END:VEVENT
 BEGIN:VEVENT
@@ -122,9 +122,9 @@ ATTENDEE:
 END:VALARM
 DESCRIPTION:JリーグYBCルヴァンカップ1回戦
 DTEND:20250320T070300Z
-LOCATION:タピック県総ひやごんスタジアム
+LOCATION:沖縄県総合運動公園陸上競技場
 DTSTART:20250320T050300Z
-SUMMARY:琉球vs福岡 @タピック県総ひやごんスタジアム 14:03〜
+SUMMARY:琉球vs福岡 @沖縄県総合運動公園陸上競技場 14:03〜
 UID:8c5c9300-16a0-44b6-98d6-6bfcb3c12b30@8c5c.org
 END:VEVENT
 BEGIN:VEVENT
@@ -143,9 +143,9 @@ ATTENDEE:
 END:VALARM
 DESCRIPTION:明治安田J3リーグ第6節
 DTEND:20250323T070300Z
-LOCATION:タピック県総ひやごんスタジアム
+LOCATION:沖縄県総合運動公園陸上競技場
 DTSTART:20250323T050300Z
-SUMMARY:琉球vs栃木SC @タピック県総ひやごんスタジアム 14:03〜
+SUMMARY:琉球vs栃木SC @沖縄県総合運動公園陸上競技場 14:03〜
 UID:8ea0c025-b8f8-4b2e-9f6b-93e6420af928@8ea0.org
 END:VEVENT
 BEGIN:VEVENT
@@ -184,10 +184,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DESCRIPTION:明治安田J3リーグ第8節
-DTEND:20250405T100000Z
-LOCATION:タピック県総ひやごんスタジアム
-DTSTART:20250405T080000Z
-SUMMARY:琉球vs相模原 @タピック県総ひやごんスタジアム 17:00〜
+DTEND:20250405T100300Z
+LOCATION:沖縄県総合運動公園陸上競技場
+DTSTART:20250405T080300Z
+SUMMARY:琉球vs相模原 @沖縄県総合運動公園陸上競技場 17:03〜
 UID:26422002-ecf0-4e65-aa2a-838bc5be2a4f@2642.org
 END:VEVENT
 BEGIN:VEVENT
@@ -227,9 +227,9 @@ ATTENDEE:
 END:VALARM
 DESCRIPTION:明治安田J3リーグ第10節
 DTEND:20250420T100000Z
-LOCATION:タピック県総ひやごんスタジアム
+LOCATION:沖縄県総合運動公園陸上競技場
 DTSTART:20250420T080000Z
-SUMMARY:琉球vs宮崎 @タピック県総ひやごんスタジアム 17:00〜
+SUMMARY:琉球vs宮崎 @沖縄県総合運動公園陸上競技場 17:00〜
 UID:e4bdf618-5d60-4007-976a-47d8d0dd18d7@e4bd.org
 END:VEVENT
 BEGIN:VEVENT
@@ -269,9 +269,9 @@ ATTENDEE:
 END:VALARM
 DESCRIPTION:明治安田J3リーグ第12節
 DTEND:20250506T110000Z
-LOCATION:タピック県総ひやごんスタジアム
+LOCATION:沖縄県総合運動公園陸上競技場
 DTSTART:20250506T090000Z
-SUMMARY:琉球vs鹿児島 @タピック県総ひやごんスタジアム 18:00〜
+SUMMARY:琉球vs鹿児島 @沖縄県総合運動公園陸上競技場 18:00〜
 UID:60a1441a-bba5-4cc7-8080-f4144a9020b3@60a1.org
 END:VEVENT
 BEGIN:VEVENT
@@ -290,9 +290,9 @@ ATTENDEE:
 END:VALARM
 DESCRIPTION:明治安田J3リーグ第13節
 DTEND:20250517T120000Z
-LOCATION:タピック県総ひやごんスタジアム
+LOCATION:沖縄県総合運動公園陸上競技場
 DTSTART:20250517T100000Z
-SUMMARY:琉球vs北九州 @タピック県総ひやごんスタジアム 19:00〜
+SUMMARY:琉球vs北九州 @沖縄県総合運動公園陸上競技場 19:00〜
 UID:d1162a80-e27e-415a-b666-85b84d1b346a@d116.org
 END:VEVENT
 BEGIN:VEVENT
@@ -353,9 +353,9 @@ ATTENDEE:
 END:VALARM
 DESCRIPTION:明治安田J3リーグ第16節
 DTEND:20250614T110000Z
-LOCATION:タピック県総ひやごんスタジアム
+LOCATION:沖縄県総合運動公園陸上競技場
 DTSTART:20250614T090000Z
-SUMMARY:琉球vs松本 @タピック県総ひやごんスタジアム 18:00〜
+SUMMARY:琉球vs松本 @沖縄県総合運動公園陸上競技場 18:00〜
 UID:5c494bf4-9917-4d1e-a353-0e3f7960d5d0@5c49.org
 END:VEVENT
 BEGIN:VEVENT
@@ -395,9 +395,9 @@ ATTENDEE:
 END:VALARM
 DESCRIPTION:明治安田J3リーグ第18節
 DTEND:20250628T110000Z
-LOCATION:タピック県総ひやごんスタジアム
+LOCATION:沖縄県総合運動公園陸上競技場
 DTSTART:20250628T090000Z
-SUMMARY:琉球vs岐阜 @タピック県総ひやごんスタジアム 18:00〜
+SUMMARY:琉球vs岐阜 @沖縄県総合運動公園陸上競技場 18:00〜
 UID:02857d49-da9d-4e8c-94ee-1c9f2ce91639@0285.org
 END:VEVENT
 BEGIN:VEVENT
@@ -437,9 +437,9 @@ ATTENDEE:
 END:VALARM
 DESCRIPTION:明治安田J3リーグ第20節
 DTEND:20250712T120000Z
-LOCATION:タピック県総ひやごんスタジアム
+LOCATION:沖縄県総合運動公園陸上競技場
 DTSTART:20250712T100000Z
-SUMMARY:琉球vs鳥取 @タピック県総ひやごんスタジアム 19:00〜
+SUMMARY:琉球vs鳥取 @沖縄県総合運動公園陸上競技場 19:00〜
 UID:1fce6816-bc8d-42f5-9bc9-85fa1d3521b0@1fce.org
 END:VEVENT
 BEGIN:VEVENT
@@ -479,9 +479,9 @@ ATTENDEE:
 END:VALARM
 DESCRIPTION:明治安田J3リーグ第22節
 DTEND:20250726T110000Z
-LOCATION:タピック県総ひやごんスタジアム
+LOCATION:沖縄県総合運動公園陸上競技場
 DTSTART:20250726T090000Z
-SUMMARY:琉球vs長野 @タピック県総ひやごんスタジアム 18:00〜
+SUMMARY:琉球vs長野 @沖縄県総合運動公園陸上競技場 18:00〜
 UID:2b84390e-a0ed-4749-9e66-d96b44e77849@2b84.org
 END:VEVENT
 BEGIN:VEVENT
@@ -521,9 +521,9 @@ ATTENDEE:
 END:VALARM
 DESCRIPTION:明治安田J3リーグ第24節
 DTEND:20250823T110000Z
-LOCATION:タピック県総ひやごんスタジアム
+LOCATION:沖縄県総合運動公園陸上競技場
 DTSTART:20250823T090000Z
-SUMMARY:琉球vs讃岐 @タピック県総ひやごんスタジアム 18:00〜
+SUMMARY:琉球vs讃岐 @沖縄県総合運動公園陸上競技場 18:00〜
 UID:ee3829b9-3d01-443c-b83b-8de8cefb0515@ee38.org
 END:VEVENT
 BEGIN:VEVENT
@@ -563,8 +563,8 @@ ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20250905
 DESCRIPTION:明治安田J3リーグ第26節\n※2025JリーグYBCルヴァンカッププライムラウンド準々決勝に出場するクラブの試合は、試合開催日が変更となる可能性があります。
-LOCATION:タピック県総ひやごんスタジアム
-SUMMARY:琉球vs群馬 @タピック県総ひやごんスタジアム 未定〜
+LOCATION:沖縄県総合運動公園陸上競技場
+SUMMARY:琉球vs群馬 @沖縄県総合運動公園陸上競技場 未定〜
 UID:651ed315-d76f-4e4e-9a67-5da62033598a@651e.org
 END:VEVENT
 BEGIN:VEVENT
@@ -583,8 +583,8 @@ ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20250914
 DESCRIPTION:明治安田J3リーグ第27節
-LOCATION:タピック県総ひやごんスタジアム
-SUMMARY:琉球vs金沢 @タピック県総ひやごんスタジアム 未定〜
+LOCATION:沖縄県総合運動公園陸上競技場
+SUMMARY:琉球vs金沢 @沖縄県総合運動公園陸上競技場 未定〜
 UID:070fa6e8-39c3-47ab-8507-9941c9b17eb9@070f.org
 END:VEVENT
 BEGIN:VEVENT
@@ -643,8 +643,8 @@ ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20251003
 DESCRIPTION:明治安田J3リーグ第30節
-LOCATION:タピック県総ひやごんスタジアム
-SUMMARY:琉球vs奈良 @タピック県総ひやごんスタジアム 未定〜
+LOCATION:沖縄県総合運動公園陸上競技場
+SUMMARY:琉球vs奈良 @沖縄県総合運動公園陸上競技場 未定〜
 UID:5b89408e-c4fd-4862-b028-868d0494e785@5b89.org
 END:VEVENT
 BEGIN:VEVENT
@@ -663,8 +663,8 @@ ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20251017
 DESCRIPTION:明治安田J3リーグ第32節
-LOCATION:タピック県総ひやごんスタジアム
-SUMMARY:琉球vs高知 @タピック県総ひやごんスタジアム 未定〜
+LOCATION:沖縄県総合運動公園陸上競技場
+SUMMARY:琉球vs高知 @沖縄県総合運動公園陸上競技場 未定〜
 UID:70542598-b2bc-4d19-91fe-566ddc0a7cd5@7054.org
 END:VEVENT
 BEGIN:VEVENT
@@ -703,8 +703,8 @@ ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20251102
 DESCRIPTION:明治安田J3リーグ第34節
-LOCATION:タピック県総ひやごんスタジアム
-SUMMARY:琉球vs栃木Ｃ @タピック県総ひやごんスタジアム 未定〜
+LOCATION:沖縄県総合運動公園陸上競技場
+SUMMARY:琉球vs栃木Ｃ @沖縄県総合運動公園陸上競技場 未定〜
 UID:6a6dd1a8-faf3-4af8-97a3-110c883c5b16@6a6d.org
 END:VEVENT
 BEGIN:VEVENT
@@ -723,8 +723,8 @@ ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20251108
 DESCRIPTION:明治安田J3リーグ第35節
-LOCATION:タピック県総ひやごんスタジアム
-SUMMARY:琉球vs沼津 @タピック県総ひやごんスタジアム 未定〜
+LOCATION:沖縄県総合運動公園陸上競技場
+SUMMARY:琉球vs沼津 @沖縄県総合運動公園陸上競技場 未定〜
 UID:f351a202-5198-46d1-b0e3-e16ac569145e@f351.org
 END:VEVENT
 BEGIN:VEVENT
@@ -783,8 +783,8 @@ ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20251128
 DESCRIPTION:明治安田J3リーグ第38節
-LOCATION:タピック県総ひやごんスタジアム
-SUMMARY:琉球vs八戸 @タピック県総ひやごんスタジアム 未定〜
+LOCATION:沖縄県総合運動公園陸上競技場
+SUMMARY:琉球vs八戸 @沖縄県総合運動公園陸上競技場 未定〜
 UID:bb4aebaf-3378-42eb-9da7-0aa545fca2e9@bb4a.org
 END:VEVENT
 END:VCALENDAR
