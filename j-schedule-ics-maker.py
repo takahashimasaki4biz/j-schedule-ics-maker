@@ -235,7 +235,7 @@ def get_ics_lines(matches):
                          timedelta(hours=2)).astimezone(timezone('UTC'))
         except:
             event.begin = jst.localize(datetime.strptime(
-                ymd, "%Y/%m/%d")).astimezone(timezone('UTC'))
+                f"{ymd} 13:00", "%Y/%m/%d %H:%M")).astimezone(timezone('UTC'))
             event.make_all_day()
         alarm = EmailAlarm(trigger=timedelta(days=-1, hours=3))
         event.alarms.append(alarm)
