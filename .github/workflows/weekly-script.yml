@@ -28,6 +28,8 @@ jobs:
 
       - name: Pythonスクリプトを実行
         run: python3 j-schedule-ics-maker.py 2025
+        env:
+          TZ: 'Asia/Tokyo'
 
       - name: Gitの設定
         run: |
