@@ -541,10 +541,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DESCRIPTION:天皇杯2回戦
-DTEND:20250611T120000Z
+DTEND:20250611T120400Z
 LOCATION:Ｕｖａｎｃｅとどろきスタジアム　ｂｙ　Ｆｕｊｉｔｓｕ
-DTSTART:20250611T100000Z
-SUMMARY:川崎Ｆvs福島 @Ｕｖａｎｃｅとどろきスタジアム　ｂｙ　Ｆｕｊｉｔｓｕ 19:00〜
+DTSTART:20250611T100400Z
+SUMMARY:川崎Ｆvs福島 @Ｕｖａｎｃｅとどろきスタジアム　ｂｙ　Ｆｕｊｉｔｓｕ 19:04〜
 UID:15a3b38c-8b05-45c2-ac10-9f333aa66633@15a3.org
 END:VEVENT
 BEGIN:VEVENT
@@ -562,10 +562,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DESCRIPTION:明治安田J1リーグ第20節
-DTEND:20250614T110000Z
+DTEND:20250614T110300Z
 LOCATION:ニッパツ三ツ沢球技場
-DTSTART:20250614T090000Z
-SUMMARY:横浜FCvs川崎Ｆ @ニッパツ三ツ沢球技場 18:00〜
+DTSTART:20250614T090300Z
+SUMMARY:横浜FCvs川崎Ｆ @ニッパツ三ツ沢球技場 18:03〜
 UID:0501f1e7-2a38-4acf-9689-0b4d37fea7b0@0501.org
 END:VEVENT
 BEGIN:VEVENT
@@ -651,6 +651,26 @@ LOCATION:Ｕｖａｎｃｅとどろきスタジアム　ｂｙ　Ｆｕｊｉ�
 DTSTART:20250705T100000Z
 SUMMARY:川崎Ｆvs鹿島 @Ｕｖａｎｃｅとどろきスタジアム　ｂｙ　Ｆｕｊｉｔｓｕ 19:00〜
 UID:1d127c6f-2bc7-4887-9d33-f53668b8ca7d@1d12.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:
+SUMMARY:
+TRIGGER:-PT21H
+ATTENDEE:
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT3H
+ATTENDEE:
+END:VALARM
+DTSTART;VALUE=DATE:20250716
+DESCRIPTION:天皇杯3回戦
+LOCATION:Ｕｖａｎｃｅとどろきスタジアム　ｂｙ　Ｆｕｊｉｔｓｕ
+SUMMARY:川崎Ｆvs相模原 @Ｕｖａｎｃｅとどろきスタジアム　ｂｙ　Ｆｕｊｉｔｓｕ 未定〜
+UID:3cbd11db-efcb-4894-b9db-5326cb843f8b@3cbd.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM

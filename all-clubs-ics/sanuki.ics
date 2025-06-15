@@ -373,10 +373,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DESCRIPTION:明治安田J3リーグ第16節
-DTEND:20250615T120000Z
+DTEND:20250615T120300Z
 LOCATION:正田醤油スタジアム群馬
-DTSTART:20250615T100000Z
-SUMMARY:群馬vs讃岐 @正田醤油スタジアム群馬 19:00〜
+DTSTART:20250615T100300Z
+SUMMARY:群馬vs讃岐 @正田醤油スタジアム群馬 19:03〜
 UID:ebbe1024-fe3e-44fb-92b6-7003a0623609@ebbe.org
 END:VEVENT
 BEGIN:VEVENT
@@ -583,7 +583,7 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20250906
-DESCRIPTION:明治安田J3リーグ第26節\n※2025JリーグYBCルヴァンカッププライムラウンド準々決勝に出場するクラブの試合は、試合開催日が変更となる可能性があります。
+DESCRIPTION:明治安田J3リーグ第26節
 LOCATION:ロートフィールド奈良
 SUMMARY:奈良vs讃岐 @ロートフィールド奈良 未定〜
 UID:ad58f60f-e172-4f7d-9f36-dbc6f04f6cf7@ad58.org
@@ -683,7 +683,7 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20251013
-DESCRIPTION:明治安田J3リーグ第31節\n※2025JリーグYBCルヴァンカッププライムラウンド準決勝に出場するクラブの試合は、試合開催日が変更となる可能性があります。
+DESCRIPTION:明治安田J3リーグ第31節
 LOCATION:長野Ｕスタジアム
 SUMMARY:長野vs讃岐 @長野Ｕスタジアム 未定〜
 UID:bc7c2977-f8f9-49e8-ad92-6cd0eca05671@bc7c.org
@@ -743,7 +743,7 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20251102
-DESCRIPTION:明治安田J3リーグ第34節\n※2025JリーグYBCルヴァンカップ決勝に出場するクラブの試合は、試合開催日が変更となる可能性があります。
+DESCRIPTION:明治安田J3リーグ第34節
 LOCATION:Ｐｉｋａｒａスタジアム
 SUMMARY:讃岐vs鳥取 @Ｐｉｋａｒａスタジアム 未定〜
 UID:b9c69868-9f64-476a-9dc4-5ee7a11d8383@b9c6.org

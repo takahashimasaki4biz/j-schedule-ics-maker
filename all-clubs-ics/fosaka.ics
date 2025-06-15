@@ -373,10 +373,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DESCRIPTION:明治安田J3リーグ第16節
-DTEND:20250614T120000Z
+DTEND:20250614T120300Z
 LOCATION:いちご宮崎新富サッカー場
-DTSTART:20250614T100000Z
-SUMMARY:宮崎vsFC大阪 @いちご宮崎新富サッカー場 19:00〜
+DTSTART:20250614T100300Z
+SUMMARY:宮崎vsFC大阪 @いちご宮崎新富サッカー場 19:03〜
 UID:1c3d3af4-c2aa-4c99-8d2e-8fcc0b6127bb@1c3d.org
 END:VEVENT
 BEGIN:VEVENT
@@ -583,7 +583,7 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20250907
-DESCRIPTION:明治安田J3リーグ第26節\n※2025JリーグYBCルヴァンカッププライムラウンド準々決勝に出場するクラブの試合は、試合開催日が変更となる可能性があります。
+DESCRIPTION:明治安田J3リーグ第26節
 LOCATION:金沢ゴーゴーカレースタジアム
 SUMMARY:金沢vsFC大阪 @金沢ゴーゴーカレースタジアム 未定〜
 UID:1cc95d38-bba8-498c-b522-fef08df3dcc2@1cc9.org
@@ -723,7 +723,7 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20251102
-DESCRIPTION:明治安田J3リーグ第34節\n※2025JリーグYBCルヴァンカップ決勝に出場するクラブの試合は、試合開催日が変更となる可能性があります。
+DESCRIPTION:明治安田J3リーグ第34節
 LOCATION:とうほう・みんなのスタジアム
 SUMMARY:福島vsFC大阪 @とうほう・みんなのスタジアム 未定〜
 UID:0bed4aed-db91-4e1f-9f3d-72b04acc3c88@0bed.org

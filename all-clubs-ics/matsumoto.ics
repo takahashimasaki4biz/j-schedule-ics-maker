@@ -415,10 +415,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DESCRIPTION:明治安田J3リーグ第16節
-DTEND:20250614T110000Z
+DTEND:20250614T110300Z
 LOCATION:沖縄県総合運動公園陸上競技場
-DTSTART:20250614T090000Z
-SUMMARY:琉球vs松本 @沖縄県総合運動公園陸上競技場 18:00〜
+DTSTART:20250614T090300Z
+SUMMARY:琉球vs松本 @沖縄県総合運動公園陸上競技場 18:03〜
 UID:16bacf91-f65d-4fdc-992e-043491a6331f@16ba.org
 END:VEVENT
 BEGIN:VEVENT
@@ -625,7 +625,7 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20250906
-DESCRIPTION:明治安田J3リーグ第26節\n※2025JリーグYBCルヴァンカッププライムラウンド準々決勝に出場するクラブの試合は、試合開催日が変更となる可能性があります。
+DESCRIPTION:明治安田J3リーグ第26節
 LOCATION:ＣＩＴＹ　ＦＯＯＴＢＡＬＬ　ＳＴＡＴＩＯＮ
 SUMMARY:栃木Ｃvs松本 @ＣＩＴＹ　ＦＯＯＴＢＡＬＬ　ＳＴＡＴＩＯＮ 未定〜
 UID:04dda1c4-7de8-4c9d-9e96-db11b8e3ef35@04dd.org
@@ -725,7 +725,7 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20251012
-DESCRIPTION:明治安田J3リーグ第31節\n※2025JリーグYBCルヴァンカッププライムラウンド準決勝に出場するクラブの試合は、試合開催日が変更となる可能性があります。
+DESCRIPTION:明治安田J3リーグ第31節
 LOCATION:サンプロ　アルウィン
 SUMMARY:松本vs宮崎 @サンプロ　アルウィン 未定〜
 UID:6b1cbde4-b638-4865-8890-4384c3aacaf3@6b1c.org
@@ -785,7 +785,7 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20251102
-DESCRIPTION:明治安田J3リーグ第34節\n※2025JリーグYBCルヴァンカップ決勝に出場するクラブの試合は、試合開催日が変更となる可能性があります。
+DESCRIPTION:明治安田J3リーグ第34節
 LOCATION:白波スタジアム
 SUMMARY:鹿児島vs松本 @白波スタジアム 未定〜
 UID:8a333f95-70e1-4e86-b939-d7dccde1dc6b@8a33.org

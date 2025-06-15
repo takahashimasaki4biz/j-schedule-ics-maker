@@ -415,10 +415,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DESCRIPTION:明治安田J3リーグ第16節
-DTEND:20250615T090000Z
+DTEND:20250615T090300Z
 LOCATION:とうほう・みんなのスタジアム
-DTSTART:20250615T070000Z
-SUMMARY:福島vs栃木SC @とうほう・みんなのスタジアム 16:00〜
+DTSTART:20250615T070300Z
+SUMMARY:福島vs栃木SC @とうほう・みんなのスタジアム 16:03〜
 UID:482da5a0-c095-4712-a41d-44793593fbe6@482d.org
 END:VEVENT
 BEGIN:VEVENT
@@ -625,7 +625,7 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20250906
-DESCRIPTION:明治安田J3リーグ第26節\n※2025JリーグYBCルヴァンカッププライムラウンド準々決勝に出場するクラブの試合は、試合開催日が変更となる可能性があります。
+DESCRIPTION:明治安田J3リーグ第26節
 LOCATION:いちご宮崎新富サッカー場
 SUMMARY:宮崎vs栃木SC @いちご宮崎新富サッカー場 未定〜
 UID:1fb17db6-c7e4-4653-9fdb-1784c9c646df@1fb1.org
@@ -725,7 +725,7 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20251012
-DESCRIPTION:明治安田J3リーグ第31節\n※2025JリーグYBCルヴァンカッププライムラウンド準決勝に出場するクラブの試合は、試合開催日が変更となる可能性があります。
+DESCRIPTION:明治安田J3リーグ第31節
 LOCATION:カンセキスタジアムとちぎ
 SUMMARY:栃木SCvs福島 @カンセキスタジアムとちぎ 未定〜
 UID:b9769137-e98d-46b8-bf89-b4913b6f1fc7@b976.org
@@ -785,7 +785,7 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20251102
-DESCRIPTION:明治安田J3リーグ第34節\n※2025JリーグYBCルヴァンカップ決勝に出場するクラブの試合は、試合開催日が変更となる可能性があります。
+DESCRIPTION:明治安田J3リーグ第34節
 LOCATION:カンセキスタジアムとちぎ
 SUMMARY:栃木SCvs岐阜 @カンセキスタジアムとちぎ 未定〜
 UID:1af688cd-e2a8-4ac8-ad2f-49f362ae1efe@1af6.org

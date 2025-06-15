@@ -478,10 +478,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DESCRIPTION:明治安田J1リーグ第20節
-DTEND:20250614T110000Z
+DTEND:20250614T110300Z
 LOCATION:県立カシマサッカースタジアム
-DTSTART:20250614T090000Z
-SUMMARY:鹿島vs広島 @県立カシマサッカースタジアム 18:00〜
+DTSTART:20250614T090300Z
+SUMMARY:鹿島vs広島 @県立カシマサッカースタジアム 18:03〜
 UID:7291b8be-6ce5-4d97-ae5b-a95a388f0643@7291.org
 END:VEVENT
 BEGIN:VEVENT
@@ -546,6 +546,26 @@ LOCATION:Ｕｖａｎｃｅとどろきスタジアム　ｂｙ　Ｆｕｊｉ�
 DTSTART:20250705T100000Z
 SUMMARY:川崎Ｆvs鹿島 @Ｕｖａｎｃｅとどろきスタジアム　ｂｙ　Ｆｕｊｉｔｓｕ 19:00〜
 UID:649f0425-f34f-48bf-b629-d39bd87b1cfc@649f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:
+SUMMARY:
+TRIGGER:-PT21H
+ATTENDEE:
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT3H
+ATTENDEE:
+END:VALARM
+DTSTART;VALUE=DATE:20250716
+DESCRIPTION:天皇杯3回戦
+LOCATION:PEACE STADIUM Connected by SoftBank
+SUMMARY:鹿島vs長崎 @PEACE STADIUM Connected by SoftBank 未定〜
+UID:0505c491-5253-4fb2-a44d-93e4e9c6d9d0@0505.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM

@@ -373,10 +373,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DESCRIPTION:明治安田J3リーグ第16節
-DTEND:20250614T080000Z
+DTEND:20250614T080300Z
 LOCATION:ロートフィールド奈良
-DTSTART:20250614T060000Z
-SUMMARY:奈良vs鳥取 @ロートフィールド奈良 15:00〜
+DTSTART:20250614T060300Z
+SUMMARY:奈良vs鳥取 @ロートフィールド奈良 15:03〜
 UID:87649ad3-0737-41f4-9aa5-3ca04cd7f87d@8764.org
 END:VEVENT
 BEGIN:VEVENT
@@ -583,7 +583,7 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20250906
-DESCRIPTION:明治安田J3リーグ第26節\n※2025JリーグYBCルヴァンカッププライムラウンド準々決勝に出場するクラブの試合は、試合開催日が変更となる可能性があります。
+DESCRIPTION:明治安田J3リーグ第26節
 LOCATION:Ａｘｉｓバードスタジアム
 SUMMARY:鳥取vs福島 @Ａｘｉｓバードスタジアム 未定〜
 UID:aed43306-fa8d-4441-afb0-93fbb6d8cd6f@aed4.org
@@ -683,7 +683,7 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20251012
-DESCRIPTION:明治安田J3リーグ第31節\n※2025JリーグYBCルヴァンカッププライムラウンド準決勝に出場するクラブの試合は、試合開催日が変更となる可能性があります。
+DESCRIPTION:明治安田J3リーグ第31節
 LOCATION:オールガイナーレYAJINスタジアム
 SUMMARY:鳥取vs相模原 @オールガイナーレYAJINスタジアム 未定〜
 UID:4e47c13b-c05b-4889-8a93-7bf7d11ccc49@4e47.org
@@ -743,7 +743,7 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20251102
-DESCRIPTION:明治安田J3リーグ第34節\n※2025JリーグYBCルヴァンカップ決勝に出場するクラブの試合は、試合開催日が変更となる可能性があります。
+DESCRIPTION:明治安田J3リーグ第34節
 LOCATION:Ｐｉｋａｒａスタジアム
 SUMMARY:讃岐vs鳥取 @Ｐｉｋａｒａスタジアム 未定〜
 UID:bbfe7597-561d-43a4-aa29-268d6379598d@bbfe.org

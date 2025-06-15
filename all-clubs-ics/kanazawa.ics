@@ -373,10 +373,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DESCRIPTION:明治安田J3リーグ第16節
-DTEND:20250614T110000Z
+DTEND:20250614T110300Z
 LOCATION:金沢ゴーゴーカレースタジアム
-DTSTART:20250614T090000Z
-SUMMARY:金沢vs栃木Ｃ @金沢ゴーゴーカレースタジアム 18:00〜
+DTSTART:20250614T090300Z
+SUMMARY:金沢vs栃木Ｃ @金沢ゴーゴーカレースタジアム 18:03〜
 UID:b3c1deec-df9a-4ae3-b94c-e9f4333faa35@b3c1.org
 END:VEVENT
 BEGIN:VEVENT
@@ -604,7 +604,7 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20250907
-DESCRIPTION:明治安田J3リーグ第26節\n※2025JリーグYBCルヴァンカッププライムラウンド準々決勝に出場するクラブの試合は、試合開催日が変更となる可能性があります。
+DESCRIPTION:明治安田J3リーグ第26節
 LOCATION:金沢ゴーゴーカレースタジアム
 SUMMARY:金沢vsFC大阪 @金沢ゴーゴーカレースタジアム 未定〜
 UID:b59fc871-27e4-43ad-9b79-76149578a985@b59f.org
@@ -704,7 +704,7 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20251012
-DESCRIPTION:明治安田J3リーグ第31節\n※2025JリーグYBCルヴァンカッププライムラウンド準決勝に出場するクラブの試合は、試合開催日が変更となる可能性があります。
+DESCRIPTION:明治安田J3リーグ第31節
 LOCATION:金沢ゴーゴーカレースタジアム
 SUMMARY:金沢vs沼津 @金沢ゴーゴーカレースタジアム 未定〜
 UID:b7706be1-17f0-4598-99e7-ce08500ffc6e@b770.org
@@ -764,7 +764,7 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20251102
-DESCRIPTION:明治安田J3リーグ第34節\n※2025JリーグYBCルヴァンカップ決勝に出場するクラブの試合は、試合開催日が変更となる可能性があります。
+DESCRIPTION:明治安田J3リーグ第34節
 LOCATION:金沢ゴーゴーカレースタジアム
 SUMMARY:金沢vs群馬 @金沢ゴーゴーカレースタジアム 未定〜
 UID:978787de-0282-4067-ad52-7bb16090a1d0@9787.org

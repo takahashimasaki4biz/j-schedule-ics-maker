@@ -394,10 +394,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DESCRIPTION:明治安田J3リーグ第16節
-DTEND:20250614T080000Z
+DTEND:20250614T080300Z
 LOCATION:長野Ｕスタジアム
-DTSTART:20250614T060000Z
-SUMMARY:長野vs岐阜 @長野Ｕスタジアム 15:00〜
+DTSTART:20250614T060300Z
+SUMMARY:長野vs岐阜 @長野Ｕスタジアム 15:03〜
 UID:306480cf-f089-4258-b323-a4625ee02f29@3064.org
 END:VEVENT
 BEGIN:VEVENT
@@ -604,7 +604,7 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20250906
-DESCRIPTION:明治安田J3リーグ第26節\n※2025JリーグYBCルヴァンカッププライムラウンド準々決勝に出場するクラブの試合は、試合開催日が変更となる可能性があります。
+DESCRIPTION:明治安田J3リーグ第26節
 LOCATION:ミクニワールドスタジアム北九州
 SUMMARY:北九州vs岐阜 @ミクニワールドスタジアム北九州 未定〜
 UID:02259d14-1152-46e2-886b-b28d83017820@0225.org
@@ -704,7 +704,7 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20251012
-DESCRIPTION:明治安田J3リーグ第31節\n※2025JリーグYBCルヴァンカッププライムラウンド準決勝に出場するクラブの試合は、試合開催日が変更となる可能性があります。
+DESCRIPTION:明治安田J3リーグ第31節
 LOCATION:高知県立春野総合運動公園陸上競技場
 SUMMARY:高知vs岐阜 @高知県立春野総合運動公園陸上競技場 未定〜
 UID:d35171da-ef65-4334-aa74-83f466683d98@d351.org
@@ -764,7 +764,7 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20251102
-DESCRIPTION:明治安田J3リーグ第34節\n※2025JリーグYBCルヴァンカップ決勝に出場するクラブの試合は、試合開催日が変更となる可能性があります。
+DESCRIPTION:明治安田J3リーグ第34節
 LOCATION:カンセキスタジアムとちぎ
 SUMMARY:栃木SCvs岐阜 @カンセキスタジアムとちぎ 未定〜
 UID:2af4d15f-bdaa-4720-81ab-8d3d490b71ce@2af4.org

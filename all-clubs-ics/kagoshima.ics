@@ -394,10 +394,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DESCRIPTION:明治安田J3リーグ第16節
-DTEND:20250614T110000Z
+DTEND:20250614T110300Z
 LOCATION:白波スタジアム
-DTSTART:20250614T090000Z
-SUMMARY:鹿児島vs八戸 @白波スタジアム 18:00〜
+DTSTART:20250614T090300Z
+SUMMARY:鹿児島vs八戸 @白波スタジアム 18:03〜
 UID:6cef1a32-4009-485e-b3cb-8b5102025c0b@6cef.org
 END:VEVENT
 BEGIN:VEVENT
@@ -604,7 +604,7 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20250906
-DESCRIPTION:明治安田J3リーグ第26節\n※2025JリーグYBCルヴァンカッププライムラウンド準々決勝に出場するクラブの試合は、試合開催日が変更となる可能性があります。
+DESCRIPTION:明治安田J3リーグ第26節
 LOCATION:白波スタジアム
 SUMMARY:鹿児島vs高知 @白波スタジアム 未定〜
 UID:6ba07cfc-8d5b-4c90-baaa-3739f4840cdc@6ba0.org
@@ -704,7 +704,7 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20251011
-DESCRIPTION:明治安田J3リーグ第31節\n※2025JリーグYBCルヴァンカッププライムラウンド準決勝に出場するクラブの試合は、試合開催日が変更となる可能性があります。
+DESCRIPTION:明治安田J3リーグ第31節
 LOCATION:ミクニワールドスタジアム北九州
 SUMMARY:北九州vs鹿児島 @ミクニワールドスタジアム北九州 未定〜
 UID:0f9338d8-7f1b-4f2f-af0a-ef29750d5b47@0f93.org
@@ -764,7 +764,7 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20251102
-DESCRIPTION:明治安田J3リーグ第34節\n※2025JリーグYBCルヴァンカップ決勝に出場するクラブの試合は、試合開催日が変更となる可能性があります。
+DESCRIPTION:明治安田J3リーグ第34節
 LOCATION:白波スタジアム
 SUMMARY:鹿児島vs松本 @白波スタジアム 未定〜
 UID:6d7e8387-8a4f-419d-b6bc-6786fa57e34c@6d7e.org
