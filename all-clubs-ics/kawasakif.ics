@@ -583,10 +583,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DESCRIPTION:明治安田J1リーグ第21節
-DTEND:20250621T120000Z
+DTEND:20250621T120300Z
 LOCATION:Ｕｖａｎｃｅとどろきスタジアム　ｂｙ　Ｆｕｊｉｔｓｕ
-DTSTART:20250621T100000Z
-SUMMARY:川崎Ｆvs神戸 @Ｕｖａｎｃｅとどろきスタジアム　ｂｙ　Ｆｕｊｉｔｓｕ 19:00〜
+DTSTART:20250621T100300Z
+SUMMARY:川崎Ｆvs神戸 @Ｕｖａｎｃｅとどろきスタジアム　ｂｙ　Ｆｕｊｉｔｓｕ 19:03〜
 UID:92431891-b7fb-4dd2-8fe6-b3fe6558643a@9243.org
 END:VEVENT
 BEGIN:VEVENT
@@ -666,10 +666,11 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DTSTART;VALUE=DATE:20250716
 DESCRIPTION:天皇杯3回戦
+DTEND:20250716T120000Z
 LOCATION:Ｕｖａｎｃｅとどろきスタジアム　ｂｙ　Ｆｕｊｉｔｓｕ
-SUMMARY:川崎Ｆvs相模原 @Ｕｖａｎｃｅとどろきスタジアム　ｂｙ　Ｆｕｊｉｔｓｕ 未定〜
+DTSTART:20250716T100000Z
+SUMMARY:川崎Ｆvs相模原 @Ｕｖａｎｃｅとどろきスタジアム　ｂｙ　Ｆｕｊｉｔｓｕ 19:00〜
 UID:3cbd11db-efcb-4894-b9db-5326cb843f8b@3cbd.org
 END:VEVENT
 BEGIN:VEVENT
@@ -776,6 +777,46 @@ LOCATION:Ｕｖａｎｃｅとどろきスタジアム　ｂｙ　Ｆｕｊｉ�
 DTSTART:20250831T100000Z
 SUMMARY:川崎Ｆvs町田 @Ｕｖａｎｃｅとどろきスタジアム　ｂｙ　Ｆｕｊｉｔｓｕ 19:00〜
 UID:e08adb43-ab9b-460c-8252-08b9306eca06@e08a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:
+SUMMARY:
+TRIGGER:-PT21H
+ATTENDEE:
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT3H
+ATTENDEE:
+END:VALARM
+DTSTART;VALUE=DATE:20250903
+DESCRIPTION:JリーグYBCルヴァンカップ準々決勝第1戦
+LOCATION:埼玉スタジアム２００２
+SUMMARY:浦和vs川崎Ｆ @埼玉スタジアム２００２ 未定〜
+UID:1901cc73-ba1a-4287-bc2b-e63007e34669@1901.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:
+SUMMARY:
+TRIGGER:-PT21H
+ATTENDEE:
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT3H
+ATTENDEE:
+END:VALARM
+DTSTART;VALUE=DATE:20250907
+DESCRIPTION:JリーグYBCルヴァンカップ準々決勝第2戦
+LOCATION:Ｕｖａｎｃｅとどろきスタジアム　ｂｙ　Ｆｕｊｉｔｓｕ
+SUMMARY:川崎Ｆvs浦和 @Ｕｖａｎｃｅとどろきスタジアム　ｂｙ　Ｆｕｊｉｔｓｕ 未定〜
+UID:7956976f-1b58-4880-bb9f-a797e317773e@7956.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
