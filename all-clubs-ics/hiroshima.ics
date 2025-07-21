@@ -688,11 +688,32 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DESCRIPTION:明治安田J1リーグ第24節
-DTEND:20250720T120000Z
+DTEND:20250720T120300Z
 LOCATION:デンカビッグスワンスタジアム
-DTSTART:20250720T100000Z
-SUMMARY:新潟vs広島 @デンカビッグスワンスタジアム 19:00〜
+DTSTART:20250720T100300Z
+SUMMARY:新潟vs広島 @デンカビッグスワンスタジアム 19:03〜
 UID:c9ee7f54-5958-4bdb-a349-8b4de6804fc6@c9ee.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:
+SUMMARY:
+TRIGGER:-PT21H
+ATTENDEE:
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:-PT3H
+ATTENDEE:
+END:VALARM
+DESCRIPTION:天皇杯ラウンド16
+DTEND:20250806T113000Z
+LOCATION:エディオンピースウイング広島
+DTSTART:20250806T093000Z
+SUMMARY:広島vs清水 @エディオンピースウイング広島 18:30〜
+UID:55234fdb-c4dc-4ec7-aeef-e3a438bf63db@5523.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -855,10 +876,11 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DTSTART;VALUE=DATE:20250913
-DESCRIPTION:明治安田J1リーグ第29節\n※9/12(金) or 9/13(土) or 9/14(日) or 9/15(月・祝) ※第29節はAFCチャンピオンズリーグエリート 2025/26に出場するクラブの試合は、9/12(金)に開催する可能性があります
+DESCRIPTION:明治安田J1リーグ第29節\n※9/12(金) or 9/13(土) ※サンフレッチェ広島がAFCチャンピオンズリーグエリート 2025/26に出場するため、試合日程は8月15日(金)に実施予定のACL抽選会(ドロー)後に確定となります。
+DTEND:20250913T120000Z
 LOCATION:エディオンピースウイング広島
-SUMMARY:広島vs京都 @エディオンピースウイング広島 未定〜
+DTSTART:20250913T100000Z
+SUMMARY:広島vs京都 @エディオンピースウイング広島 19:00〜
 UID:67f6019b-6c53-47df-abdd-d5460a403e4f@67f6.org
 END:VEVENT
 BEGIN:VEVENT
@@ -875,10 +897,11 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DTSTART;VALUE=DATE:20250923
 DESCRIPTION:明治安田J1リーグ第31節
+DTEND:20250923T120000Z
 LOCATION:三協フロンテア柏スタジアム
-SUMMARY:柏vs広島 @三協フロンテア柏スタジアム 未定〜
+DTSTART:20250923T100000Z
+SUMMARY:柏vs広島 @三協フロンテア柏スタジアム 19:00〜
 UID:9a0f5121-126e-42d5-aa37-27d80f01e127@9a0f.org
 END:VEVENT
 BEGIN:VEVENT
@@ -896,7 +919,7 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20250927
-DESCRIPTION:明治安田J1リーグ第32節\n※9/26(金) or 9/27(土) or 9/28(日) ※第32節はAFCチャンピオンズリーグエリート 2025/26に出場するクラブの試合は、9/26(金)に開催する可能性があります
+DESCRIPTION:明治安田J1リーグ第32節\n※9/26(金) or 9/27(土) ※サンフレッチェ広島がAFCチャンピオンズリーグエリート 2025/26に出場するため、試合日程は8月15日(金)に実施予定のACL抽選会(ドロー)後に確定となります。
 LOCATION:ベスト電器スタジアム
 SUMMARY:福岡vs広島 @ベスト電器スタジアム 未定〜
 UID:622769fd-c541-4447-a9b4-9f9e895a02e7@6227.org
@@ -916,7 +939,7 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20251004
-DESCRIPTION:明治安田J1リーグ第33節\n※10/4(土) or 10/5(日)
+DESCRIPTION:明治安田J1リーグ第33節\n※10/4(土) or 10/5(日) ※FC町田ゼルビア、サンフレッチェ広島がAFCチャンピオンズリーグエリート 2025/26に出場するため、試合日程は8月15日(金)に実施予定のACL抽選会(ドロー)後に確定となります。
 LOCATION:エディオンピースウイング広島
 SUMMARY:広島vs町田 @エディオンピースウイング広島 未定〜
 UID:8af3ebd8-bfd2-4ce3-af87-dd888e821f13@8af3.org
@@ -936,7 +959,7 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20251018
-DESCRIPTION:明治安田J1リーグ第34節\n※10/17(金) or 10/18(土) or 10/19(日) ※第34節はAFCチャンピオンズリーグエリート 2025/26に出場するクラブの試合は、10/17(金)に開催する可能性があります
+DESCRIPTION:明治安田J1リーグ第34節\n※10/17(金) or 10/18(土) ※サンフレッチェ広島がAFCチャンピオンズリーグエリート 2025/26に出場するため、試合日程は8月15日(金)に実施予定のACL抽選会(ドロー)後に確定となります。
 LOCATION:エディオンピースウイング広島
 SUMMARY:広島vsFC東京 @エディオンピースウイング広島 未定〜
 UID:342ecbd3-61a4-4a7c-889e-04d20c76ecbc@342e.org
@@ -956,7 +979,7 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20251025
-DESCRIPTION:明治安田J1リーグ第35節\n※10/25(土) or 10/26(日)
+DESCRIPTION:明治安田J1リーグ第35節\n※10/25(土) or 10/26(日) ※サンフレッチェ広島がAFCチャンピオンズリーグエリート 2025/26に出場するため、試合日程は8月15日(金)に実施予定のACL抽選会(ドロー)後に確定となります。
 LOCATION:日産スタジアム
 SUMMARY:横浜FMvs広島 @日産スタジアム 未定〜
 UID:b4b82875-87db-4c1a-af24-a14a67067e42@b4b8.org
@@ -976,7 +999,7 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20251108
-DESCRIPTION:明治安田J1リーグ第36節\n※11/8(土) or 11/9(日)
+DESCRIPTION:明治安田J1リーグ第36節\n※11/8(土) or 11/9(日) ※サンフレッチェ広島がAFCチャンピオンズリーグエリート 2025/26に出場するため、試合日程は8月15日(金)に実施予定のACL抽選会(ドロー)後に確定となります。
 LOCATION:エディオンピースウイング広島
 SUMMARY:広島vs浦和 @エディオンピースウイング広島 未定〜
 UID:49195f26-c5ab-40b8-bc5f-8aa15887fa40@4919.org
@@ -995,10 +1018,11 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DTSTART;VALUE=DATE:20251130
 DESCRIPTION:明治安田J1リーグ第37節
+DTEND:20251130T070000Z
 LOCATION:Ｕｖａｎｃｅとどろきスタジアム　ｂｙ　Ｆｕｊｉｔｓｕ
-SUMMARY:川崎Ｆvs広島 @Ｕｖａｎｃｅとどろきスタジアム　ｂｙ　Ｆｕｊｉｔｓｕ 未定〜
+DTSTART:20251130T050000Z
+SUMMARY:川崎Ｆvs広島 @Ｕｖａｎｃｅとどろきスタジアム　ｂｙ　Ｆｕｊｉｔｓｕ 14:00〜
 UID:375f4ed4-a8e0-45cc-9406-87243f8568cf@375f.org
 END:VEVENT
 BEGIN:VEVENT
@@ -1015,10 +1039,11 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DTSTART;VALUE=DATE:20251206
 DESCRIPTION:明治安田J1リーグ第38節
+DTEND:20251206T070000Z
 LOCATION:エディオンピースウイング広島
-SUMMARY:広島vs湘南 @エディオンピースウイング広島 未定〜
+DTSTART:20251206T050000Z
+SUMMARY:広島vs湘南 @エディオンピースウイング広島 14:00〜
 UID:4c991803-9ec8-4848-87be-1674afe73b83@4c99.org
 END:VEVENT
 END:VCALENDAR
