@@ -277,7 +277,7 @@ def make_ics(clubname, year):
     url += clubname
     url += "&year="
     url += year
-    url += "&month%5B%5D=01&month%5B%5D=02&month%5B%5D=03&month%5B%5D=04&month%5B%5D=05&month%5B%5D=06&month%5B%5D=07&month%5B%5D=08&month%5B%5D=09&month%5B%5D=10&month%5B%5D=11&month%5B%5D=12&tba=1
+    url += "&month%5B%5D=01&month%5B%5D=02&month%5B%5D=03&month%5B%5D=04&month%5B%5D=05&month%5B%5D=06&month%5B%5D=07&month%5B%5D=08&month%5B%5D=09&month%5B%5D=10&month%5B%5D=11&month%5B%5D=12&tba=1"
     matches = get_matches(url)
     new_ics_lines = get_ics_lines(matches)
     for i, new_ics_line in enumerate(new_ics_lines):
