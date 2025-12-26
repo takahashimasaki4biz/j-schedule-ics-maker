@@ -27,7 +27,7 @@ jobs:
           pip install -r requirements.txt || echo "No dependencies"
 
       - name: Pythonスクリプトを実行
-        run: python3 j-schedule-ics-maker.py 2025
+        run: python3 j-schedule-ics-maker.py 2026
         env:
           TZ: 'Asia/Tokyo'
 
