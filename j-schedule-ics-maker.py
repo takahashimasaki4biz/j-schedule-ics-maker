@@ -272,11 +272,12 @@ def save_ics_lines(filename, ics_lines):
 def make_ics(clubname, year):
     filename = f"all-clubs-ics/{clubname}.ics"
     old_ics_lines = load_ics_lines(filename)
-    url = "https://www.jleague.jp/match/search/?category%5B%5D=j1&category%5B%5D=leaguecup&category%5B%5D=j2&category%5B%5D=j3&category%5B%5D=playoff&category%5B%5D=j2playoff&category%5B%5D=J3jflplayoff&category%5B%5D=emperor&category%5B%5D=acle&category%5B%5D=acl2&category%5B%5D=acl&category%5B%5D=fcwc&category%5B%5D=supercup&category%5B%5D=asiachallenge&category%5B%5D=jwc&club%5B%5D="
+    # url = "https://www.jleague.jp/match/search/?category%5B%5D=j1&category%5B%5D=leaguecup&category%5B%5D=j2&category%5B%5D=j3&category%5B%5D=playoff&category%5B%5D=j2playoff&category%5B%5D=J3jflplayoff&category%5B%5D=emperor&category%5B%5D=acle&category%5B%5D=acl2&category%5B%5D=acl&category%5B%5D=fcwc&category%5B%5D=supercup&category%5B%5D=asiachallenge&category%5B%5D=jwc&club%5B%5D="
+    url = "https://www.jleague.jp/match/search/?category%5B%5D=100yj1&category%5B%5D=j2j3&category%5B%5D=j1&category%5B%5D=leaguecup&category%5B%5D=j2&category%5B%5D=j3&category%5B%5D=playoff&category%5B%5D=j2playoff&category%5B%5D=J3jflplayoff&category%5B%5D=emperor&category%5B%5D=acle&category%5B%5D=acl2&category%5B%5D=acl&category%5B%5D=fcwc&category%5B%5D=supercup&category%5B%5D=asiachallenge&category%5B%5D=jwc&club%5B%5D="
     url += clubname
     url += "&year="
     url += year
-    url += "&month%5B%5D=01&month%5B%5D=02&month%5B%5D=03&month%5B%5D=04&month%5B%5D=05&month%5B%5D=06&month%5B%5D=07&month%5B%5D=08&month%5B%5D=09&month%5B%5D=10&month%5B%5D=11&month%5B%5D=12&tba=1"
+    url += "&month%5B%5D=01&month%5B%5D=02&month%5B%5D=03&month%5B%5D=04&month%5B%5D=05&month%5B%5D=06&month%5B%5D=07&month%5B%5D=08&month%5B%5D=09&month%5B%5D=10&month%5B%5D=11&month%5B%5D=12&tba=1
     matches = get_matches(url)
     new_ics_lines = get_ics_lines(matches)
     for i, new_ics_line in enumerate(new_ics_lines):
