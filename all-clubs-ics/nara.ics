@@ -246,10 +246,11 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DTSTART;VALUE=DATE:20260425
-DESCRIPTION:明治安田J2・J3百年構想リーグ地域リーグラウンド第12節\nツエーゲン金沢のホームスタジアムにおける一部設備破損の影響により、開催スタジアム未定となっています。決定次第お知らせします。
-LOCATION:未定
-SUMMARY:金沢vs奈良 @未定 未定〜
+DESCRIPTION:明治安田J2・J3百年構想リーグ地域リーグラウンド第12節
+DTEND:20260425T070000Z
+LOCATION:金沢ゴーゴーカレースタジアム
+DTSTART:20260425T050000Z
+SUMMARY:金沢vs奈良 @金沢ゴーゴーカレースタジアム 14:00〜
 UID:84dd910b-0ddc-4886-9cb2-9fe9921e079e@84dd.org
 END:VEVENT
 BEGIN:VEVENT

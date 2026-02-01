@@ -141,10 +141,11 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DTSTART;VALUE=DATE:20260322
-DESCRIPTION:明治安田J2・J3百年構想リーグ地域リーグラウンド第7節\nツエーゲン金沢のホームスタジアムにおける一部設備破損の影響により、開催スタジアム未定となっています。決定次第お知らせします。
-LOCATION:未定
-SUMMARY:金沢vsFC大阪 @未定 未定〜
+DESCRIPTION:明治安田J2・J3百年構想リーグ地域リーグラウンド第7節
+DTEND:20260322T070000Z
+LOCATION:金沢ゴーゴーカレースタジアム
+DTSTART:20260322T050000Z
+SUMMARY:金沢vsFC大阪 @金沢ゴーゴーカレースタジアム 14:00〜
 UID:67e89cd3-9582-4d80-95cb-a55218d03b8b@67e8.org
 END:VEVENT
 BEGIN:VEVENT

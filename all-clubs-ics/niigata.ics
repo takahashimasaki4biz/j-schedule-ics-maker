@@ -330,10 +330,11 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DTSTART;VALUE=DATE:20260510
-DESCRIPTION:明治安田J2・J3百年構想リーグ地域リーグラウンド第16節\nツエーゲン金沢のホームスタジアムにおける一部設備破損の影響により、開催スタジアム未定となっています。決定次第お知らせします。
-LOCATION:未定
-SUMMARY:金沢vs新潟 @未定 未定〜
+DESCRIPTION:明治安田J2・J3百年構想リーグ地域リーグラウンド第16節
+DTEND:20260510T063000Z
+LOCATION:金沢ゴーゴーカレースタジアム
+DTSTART:20260510T043000Z
+SUMMARY:金沢vs新潟 @金沢ゴーゴーカレースタジアム 13:30〜
 UID:fffa7fa8-9f45-4c3b-b39c-a00e7346c5be@fffa.org
 END:VEVENT
 BEGIN:VEVENT

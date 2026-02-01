@@ -78,10 +78,11 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DTSTART;VALUE=DATE:20260301
-DESCRIPTION:明治安田J2・J3百年構想リーグ地域リーグラウンド第4節\nツエーゲン金沢のホームスタジアムにおける一部設備破損の影響により、開催スタジアム未定となっています。決定次第お知らせします。
-LOCATION:未定
-SUMMARY:金沢vs讃岐 @未定 未定〜
+DESCRIPTION:明治安田J2・J3百年構想リーグ地域リーグラウンド第4節
+DTEND:20260301T070000Z
+LOCATION:金沢ゴーゴーカレースタジアム
+DTSTART:20260301T050000Z
+SUMMARY:金沢vs讃岐 @金沢ゴーゴーカレースタジアム 14:00〜
 UID:e140ba9d-482c-486d-a934-ba1abd0b8ba3@e140.org
 END:VEVENT
 BEGIN:VEVENT
