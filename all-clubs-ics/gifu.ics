@@ -38,9 +38,9 @@ ATTENDEE:
 END:VALARM
 DESCRIPTION:明治安田J2・J3百年構想リーグ地域リーグラウンド第2節
 DTEND:20260215T070000Z
-LOCATION:岐阜メモリアルセンター長良川競技場
+LOCATION:岐阜メモリアルセンターヒマラヤスタジアム岐阜
 DTSTART:20260215T050000Z
-SUMMARY:岐阜vs磐田 @岐阜メモリアルセンター長良川競技場 14:00〜
+SUMMARY:岐阜vs磐田 @岐阜メモリアルセンターヒマラヤスタジアム岐阜 14:00〜
 UID:dc7b283d-1c4e-4788-8717-93ad269740f9@dc7b.org
 END:VEVENT
 BEGIN:VEVENT
@@ -59,9 +59,9 @@ ATTENDEE:
 END:VALARM
 DESCRIPTION:明治安田J2・J3百年構想リーグ地域リーグラウンド第3節
 DTEND:20260222T070000Z
-LOCATION:岐阜メモリアルセンター長良川競技場
+LOCATION:岐阜メモリアルセンターヒマラヤスタジアム岐阜
 DTSTART:20260222T050000Z
-SUMMARY:岐阜vsいわき @岐阜メモリアルセンター長良川競技場 14:00〜
+SUMMARY:岐阜vsいわき @岐阜メモリアルセンターヒマラヤスタジアム岐阜 14:00〜
 UID:c791a05e-176d-463e-bf96-91c6e7c9fe43@c791.org
 END:VEVENT
 BEGIN:VEVENT
@@ -101,9 +101,9 @@ ATTENDEE:
 END:VALARM
 DESCRIPTION:明治安田J2・J3百年構想リーグ地域リーグラウンド第5節
 DTEND:20260308T070000Z
-LOCATION:岐阜メモリアルセンター長良川競技場
+LOCATION:岐阜メモリアルセンターヒマラヤスタジアム岐阜
 DTSTART:20260308T050000Z
-SUMMARY:岐阜vs甲府 @岐阜メモリアルセンター長良川競技場 14:00〜
+SUMMARY:岐阜vs甲府 @岐阜メモリアルセンターヒマラヤスタジアム岐阜 14:00〜
 UID:491db679-0c2e-4093-abaa-d42e77013acc@491d.org
 END:VEVENT
 BEGIN:VEVENT
@@ -122,9 +122,9 @@ ATTENDEE:
 END:VALARM
 DESCRIPTION:明治安田J2・J3百年構想リーグ地域リーグラウンド第6節
 DTEND:20260315T120000Z
-LOCATION:岐阜メモリアルセンター長良川競技場
+LOCATION:岐阜メモリアルセンターヒマラヤスタジアム岐阜
 DTSTART:20260315T100000Z
-SUMMARY:岐阜vs福島 @岐阜メモリアルセンター長良川競技場 19:00〜
+SUMMARY:岐阜vs福島 @岐阜メモリアルセンターヒマラヤスタジアム岐阜 19:00〜
 UID:f8aefbd7-a4be-46f3-aca8-17ad1debbe10@f8ae.org
 END:VEVENT
 BEGIN:VEVENT
@@ -163,10 +163,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DESCRIPTION:明治安田J2・J3百年構想リーグ地域リーグラウンド第8節
-DTEND:20260328T070300Z
-LOCATION:岐阜メモリアルセンター長良川競技場
-DTSTART:20260328T050300Z
-SUMMARY:岐阜vs長野 @岐阜メモリアルセンター長良川競技場 14:03〜
+DTEND:20260328T070000Z
+LOCATION:岐阜メモリアルセンターヒマラヤスタジアム岐阜
+DTSTART:20260328T050000Z
+SUMMARY:岐阜vs長野 @岐阜メモリアルセンターヒマラヤスタジアム岐阜 14:00〜
 UID:b6165744-43de-44a7-b01f-49815b68194d@b616.org
 END:VEVENT
 BEGIN:VEVENT
@@ -184,10 +184,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DESCRIPTION:明治安田J2・J3百年構想リーグ地域リーグラウンド第9節
-DTEND:20260404T070000Z
+DTEND:20260404T070300Z
 LOCATION:ＮＡＣＫ５スタジアム大宮
-DTSTART:20260404T050000Z
-SUMMARY:大宮vs岐阜 @ＮＡＣＫ５スタジアム大宮 14:00〜
+DTSTART:20260404T050300Z
+SUMMARY:大宮vs岐阜 @ＮＡＣＫ５スタジアム大宮 14:03〜
 UID:5db8e8ad-bbf1-4553-8450-640400bc2051@5db8.org
 END:VEVENT
 BEGIN:VEVENT
@@ -206,9 +206,9 @@ ATTENDEE:
 END:VALARM
 DESCRIPTION:明治安田J2・J3百年構想リーグ地域リーグラウンド第10節
 DTEND:20260411T070000Z
-LOCATION:岐阜メモリアルセンター長良川競技場
+LOCATION:岐阜メモリアルセンターヒマラヤスタジアム岐阜
 DTSTART:20260411T050000Z
-SUMMARY:岐阜vs藤枝 @岐阜メモリアルセンター長良川競技場 14:00〜
+SUMMARY:岐阜vs藤枝 @岐阜メモリアルセンターヒマラヤスタジアム岐阜 14:00〜
 UID:04c39985-2cb0-46af-af1f-31636ce32de6@04c3.org
 END:VEVENT
 BEGIN:VEVENT
@@ -290,9 +290,9 @@ ATTENDEE:
 END:VALARM
 DESCRIPTION:明治安田J2・J3百年構想リーグ地域リーグラウンド第14節
 DTEND:20260502T070000Z
-LOCATION:岐阜メモリアルセンター長良川競技場
+LOCATION:岐阜メモリアルセンターヒマラヤスタジアム岐阜
 DTSTART:20260502T050000Z
-SUMMARY:岐阜vs札幌 @岐阜メモリアルセンター長良川競技場 14:00〜
+SUMMARY:岐阜vs札幌 @岐阜メモリアルセンターヒマラヤスタジアム岐阜 14:00〜
 UID:3a8774ba-5cad-4035-b51b-c6940217d28b@3a87.org
 END:VEVENT
 BEGIN:VEVENT
@@ -311,9 +311,9 @@ ATTENDEE:
 END:VALARM
 DESCRIPTION:明治安田J2・J3百年構想リーグ地域リーグラウンド第15節
 DTEND:20260506T120000Z
-LOCATION:岐阜メモリアルセンター長良川競技場
+LOCATION:岐阜メモリアルセンターヒマラヤスタジアム岐阜
 DTSTART:20260506T100000Z
-SUMMARY:岐阜vs松本 @岐阜メモリアルセンター長良川競技場 19:00〜
+SUMMARY:岐阜vs松本 @岐阜メモリアルセンターヒマラヤスタジアム岐阜 19:00〜
 UID:555713d3-ba0f-4409-bc21-49e38b1bd476@5557.org
 END:VEVENT
 BEGIN:VEVENT
@@ -374,9 +374,9 @@ ATTENDEE:
 END:VALARM
 DESCRIPTION:明治安田J2・J3百年構想リーグ地域リーグラウンド第18節
 DTEND:20260523T070000Z
-LOCATION:岐阜メモリアルセンター長良川競技場
+LOCATION:岐阜メモリアルセンターヒマラヤスタジアム岐阜
 DTSTART:20260523T050000Z
-SUMMARY:岐阜vs大宮 @岐阜メモリアルセンター長良川競技場 14:00〜
+SUMMARY:岐阜vs大宮 @岐阜メモリアルセンターヒマラヤスタジアム岐阜 14:00〜
 UID:a8764711-c5fd-4984-90ae-1030e368f57e@a876.org
 END:VEVENT
 END:VCALENDAR
