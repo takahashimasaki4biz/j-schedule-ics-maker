@@ -95,68 +95,59 @@ def get_soup(url):
     return BeautifulSoup(response.text, "html.parser")
 
 
-def get_match_tags(soup):
-    scheduleArea_tag = soup.find("section", class_="scheduleArea")
-    contentBlock_tag = scheduleArea_tag.find("section", class_="contentBlock")
-    return contentBlock_tag.find_all("section", class_="matchlistWrap", recursive=False)
+def get_match_tags1(soup):
+    hiddenS4 = soup.find("div", id="S:4")
+    scheduleArea_tag = hiddenS4.find(
+        "div", class_="p-game-schedule__list")
+    return scheduleArea_tag.find_all("div", class_="p-game-schedule__list-item c-container", recursive=False)
 
 
-def get_date(match_tag):
-    date_tag = match_tag.find("h4", class_="leftRedTit")
-    re_date = re.match(r"(\d{4})年(\d{1,2})月(\d{1,2})日.+", date_tag.get_text())
+def get_match_tags2(soup):
+    return soup.find_all("div", class_="m-schedule__content")
+
+
+def get_date(match_tag1):
+    date_tag = match_tag1.find("h2")
+    re_date = re.match(r"(\d{4})/(\d{1,2})/(\d{1,2}) ", date_tag.get_text())
     return f"{re_date.group(1).zfill(4)}/{re_date.group(2).zfill(2)}/{re_date.group(3).zfill(2)}"
 
 
-def get_time(match_tag):
-    time_tag = match_tag.find("td", class_="stadium")
+def get_time(match_tag2):
+    time_tag = match_tag2.find("p", class_="m-schedule__time-text")
     time_text = time_tag.get_text(strip=True)
-    return "未定" if time_text.startswith("未定") else time_text[:5]
+    return "未定" if time_text.startswith("未定") else time_text
 
 
-def get_stadium_name(domain, match_tag):
-    a_tag = match_tag.find("td", class_="match").find("a")
-    short_stadium_name = a_tag.get_text(strip=True)
-    if short_stadium_name in name_of_stadiums:
-        return name_of_stadiums[short_stadium_name]
-    soup2 = get_soup(domain + a_tag["href"])
-    stadium_name_tag = soup2.find("span", class_="matchVsTitle__stadium")
-    if stadium_name_tag:
-        full_stadium_name = stadium_name_tag.get_text(strip=True)
-        name_of_stadiums[short_stadium_name] = full_stadium_name
-        return full_stadium_name
-    return ""
+def get_stadium_name(match_tag2):
+    return match_tag2.find_all("p", class_="m-schedule__info-stadium")[-1].get_text(strip=True)
 
 
-def get_name_of_teams(match_tag):
-    left_team = match_tag.find(
-        "td", class_="clubName leftside").get_text(strip=True)
-    right_team = match_tag.find(
-        "td", class_="clubName rightside").get_text(strip=True)
-    return f"{left_team}vs{right_team}"
+def get_name_of_teams(match_tag2):
+    name_tags = match_tag2.find_all("span", "m-schedule__team-name")
+    home_team = name_tags[0].get_text(strip=True)
+    away_team = name_tags[2].get_text(strip=True)
+    return f"{home_team}vs{away_team}"
 
 
-def get_note_text(match_tag):
-    note_text = match_tag.find("div", class_="leagAccTit").find(
-        "h5").get_text(strip=True).replace(" ", "").replace("　", "")
-    note_tag = match_tag.find("td", class_="note")
-    if note_tag:
-        note_text += "\n" + note_tag.get_text(strip=True)
+def get_note_text(match_tag1):
+    note_tag = match_tag1.find("span")
+    note_text = note_tag.get_text(strip=True).replace(" ", "").replace("　", "")
     return zen_to_han(note_text)
 
 
 def get_matches(url):
     soup = get_soup(url)
-    domain = re.match(r"(https?://[^/]+)", url).group(1)
-    match_tags = get_match_tags(soup)
+    match_tags1 = get_match_tags1(soup)
+    match_tags2 = get_match_tags2(soup)
     matches = []
-    for match_tag in match_tags:
+    for match_tag1, match_tag2 in zip(match_tags1, match_tags2):
         try:
             match = {}
-            match["日付"] = get_date(match_tag)
-            match["時刻"] = get_time(match_tag)
-            match["スタジアム"] = get_stadium_name(domain, match_tag)
-            match["対戦チーム名"] = get_name_of_teams(match_tag)
-            match["補足事項"] = get_note_text(match_tag)
+            match["日付"] = get_date(match_tag1)
+            match["時刻"] = get_time(match_tag2)
+            match["スタジアム"] = get_stadium_name(match_tag2)
+            match["対戦チーム名"] = get_name_of_teams(match_tag2)
+            match["補足事項"] = get_note_text(match_tag1)
             matches.append(match)
         except:
             pass
@@ -269,15 +260,13 @@ def save_ics_lines(filename, ics_lines):
     print(f"Saved {filename}")
 
 
-def make_ics(clubname, year):
+def make_ics(clubname, year1, year2):
     filename = f"all-clubs-ics/{clubname}.ics"
     old_ics_lines = load_ics_lines(filename)
-    # url = "https://www.jleague.jp/match/search/?category%5B%5D=j1&category%5B%5D=leaguecup&category%5B%5D=j2&category%5B%5D=j3&category%5B%5D=playoff&category%5B%5D=j2playoff&category%5B%5D=J3jflplayoff&category%5B%5D=emperor&category%5B%5D=acle&category%5B%5D=acl2&category%5B%5D=acl&category%5B%5D=fcwc&category%5B%5D=supercup&category%5B%5D=asiachallenge&category%5B%5D=jwc&club%5B%5D="
-    url = "https://www.jleague.jp/match/search/?category%5B%5D=100yj1&category%5B%5D=j2j3&category%5B%5D=j1&category%5B%5D=leaguecup&category%5B%5D=j2&category%5B%5D=j3&category%5B%5D=playoff&category%5B%5D=j2playoff&category%5B%5D=J3jflplayoff&category%5B%5D=emperor&category%5B%5D=acle&category%5B%5D=acl2&category%5B%5D=acl&category%5B%5D=fcwc&category%5B%5D=supercup&category%5B%5D=asiachallenge&category%5B%5D=jwc&club%5B%5D="
+    url = "https://www.jleague.jp/j1/match/search-list/?startdate="
+    url += year1 + "-08-01&enddate="
+    url += year2 + "-07-31&period=month&club="
     url += clubname
-    url += "&year="
-    url += year
-    url += "&month%5B%5D=01&month%5B%5D=02&month%5B%5D=03&month%5B%5D=04&month%5B%5D=05&month%5B%5D=06&month%5B%5D=07&month%5B%5D=08&month%5B%5D=09&month%5B%5D=10&month%5B%5D=11&month%5B%5D=12&tba=1"
     matches = get_matches(url)
     new_ics_lines = get_ics_lines(matches)
     for i, new_ics_line in enumerate(new_ics_lines):
@@ -292,10 +281,11 @@ def make_ics(clubname, year):
 
 if __name__ == "__main__":
     scriptname = sys.argv[0]
-    if len(sys.argv) != 2:
-        print(f"Usage: {scriptname} <YEAR>")
+    if len(sys.argv) != 3:
+        print(f"Usage: {scriptname} <YEAR1> <YEAR2>")
         sys.exit(1)
-    year = sys.argv[1]
+    year1 = sys.argv[1]
+    year2 = sys.argv[2]
     for club in clubs:
-        make_ics(club, year)
+        make_ics(club, year1, year2)
     print("Done.")
