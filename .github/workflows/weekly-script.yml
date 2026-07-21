@@ -20,7 +20,7 @@ jobs:
       - name: Pythonをセットアップ
         uses: actions/setup-python@v6
         with:
-          python-version: '3.12.7'
+          python-version: '3.14.4'
 
       - name: 依存関係をインストール (必要なら)
         run: |
