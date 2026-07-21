@@ -20,14 +20,14 @@ jobs:
       - name: Pythonをセットアップ
         uses: actions/setup-python@v6
         with:
-          python-version: '3.12.7'
+          python-version: '3.14.4'
 
       - name: 依存関係をインストール (必要なら)
         run: |
           pip install -r requirements.txt || echo "No dependencies"
 
       - name: Pythonスクリプトを実行
-        run: python3 j-schedule-ics-maker.py 2026
+        run: python3 j-schedule-ics-maker.py 2026 2027
         env:
           TZ: 'Asia/Tokyo'
 
