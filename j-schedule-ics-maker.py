@@ -96,9 +96,8 @@ def get_soup(url):
 
 
 def get_match_tags1(soup):
-    # hiddenS4 = soup.find("div", id="S:4")
-    # scheduleArea_tag = hiddenS4.find(
-    scheduleArea_tag = soup.find(
+    hiddenS4 = soup.find("div", id="S:4")
+    scheduleArea_tag = hiddenS4.find(
         "div", class_="p-game-schedule__list")
     return scheduleArea_tag.find_all("div", class_="p-game-schedule__list-item c-container", recursive=False)
 
