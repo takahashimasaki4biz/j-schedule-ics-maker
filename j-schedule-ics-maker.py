@@ -92,6 +92,7 @@ def zen_to_han(text):
 
 
 def get_soup(url):
+    logging.info(url)
     response = requests.get(url)
     # response.encoding = response.apparent_encoding
     response.encoding = "utf-8"
