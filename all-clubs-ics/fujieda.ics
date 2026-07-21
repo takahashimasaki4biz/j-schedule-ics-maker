@@ -15,12 +15,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:зђђ1зѓА
+DESCRIPTION:第1節
 DTEND:20260808T113000Z
-LOCATION:иЧ§жЮЭзЈПеРИйБЛеЛХеЕђеЬТгВµгГГгВЂгГЉе†і
+LOCATION:藤枝総合運動公園サッカー場
 DTSTART:20260808T093000Z
-SUMMARY:иЧ§жЮЭпЉ≠пЉєпЉ¶пЉ£vsгГЩгВђгГЂгВњдїЩеП∞ @иЧ§жЮЭзЈПеРИйБЛеЛХеЕђеЬТгВµгГГгВЂгГЉе†і 18:30〜
-UID:feaa3c2e-b7d4-49e4-939a-fe92d52bc506@feaa.org
+SUMMARY:藤枝ＭＹＦＣvsベガルタ仙台 @藤枝総合運動公園サッカー場 18:30〜
+UID:96e95e7c-06d4-4029-9118-c822911e76c2@96e9.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -36,12 +36,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:зђђ2зѓА
+DESCRIPTION:第2節
 DTEND:20260815T113000Z
-LOCATION:иЧ§жЮЭзЈПеРИйБЛеЛХеЕђеЬТгВµгГГгВЂгГЉе†і
+LOCATION:藤枝総合運動公園サッカー場
 DTSTART:20260815T093000Z
-SUMMARY:иЧ§жЮЭпЉ≠пЉєпЉ¶пЉ£vsгБДгВПгБНпЉ¶пЉ£ @иЧ§жЮЭзЈПеРИйБЛеЛХеЕђеЬТгВµгГГгВЂгГЉе†і 18:30〜
-UID:600cb31a-71a9-4ed1-b776-a12b07ec12a5@600c.org
+SUMMARY:藤枝ＭＹＦＣvsいわきＦＣ @藤枝総合運動公園サッカー場 18:30〜
+UID:a03dc658-2c18-43f1-8011-b6bdfc331f88@a03d.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -57,12 +57,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:зђђ3зѓА
+DESCRIPTION:第3節
 DTEND:20260822T120000Z
-LOCATION:гГЗгГ≥гВЂгГУгГГгВ∞гВєгГѓгГ≥гВєгВњгВЄгВҐгГ†
+LOCATION:デンカビッグスワンスタジアム
 DTSTART:20260822T100000Z
-SUMMARY:гВҐгГЂгГУгГђгГГгВѓгВєжЦ∞жљЯvsиЧ§жЮЭпЉ≠пЉєпЉ¶пЉ£ @гГЗгГ≥гВЂгГУгГГгВ∞гВєгГѓгГ≥гВєгВњгВЄгВҐгГ† 19:00〜
-UID:ce025451-cf6e-4fd5-8817-9499193c2b90@ce02.org
+SUMMARY:アルビレックス新潟vs藤枝ＭＹＦＣ @デンカビッグスワンスタジアム 19:00〜
+UID:640c54da-3081-4173-840e-b02d022501fb@640c.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -78,12 +78,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:е§©зЪЗжЭѓгААпЉТеЫЮжИ¶
+DESCRIPTION:天皇杯2回戦
 DTEND:20260826T120000Z
-LOCATION:пЉЃпЉ§гВљгГХгГИгВєгВњгВЄгВҐгГ†е±±ељҐ
+LOCATION:ＮＤソフトスタジアム山形
 DTSTART:20260826T100000Z
-SUMMARY:гГҐгГ≥гГЖгГЗгВ£гВ™е±±ељҐvsиЧ§жЮЭпЉ≠пЉєпЉ¶пЉ£ @пЉЃпЉ§гВљгГХгГИгВєгВњгВЄгВҐгГ†е±±ељҐ 19:00〜
-UID:92abd32c-646c-4957-ad36-977a7dd21d84@92ab.org
+SUMMARY:モンテディオ山形vs藤枝ＭＹＦＣ @ＮＤソフトスタジアム山形 19:00〜
+UID:1a4715e2-9dd7-4ccd-a0cd-5a3ce2d52460@1a47.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -99,12 +99,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:зђђ4зѓА
+DESCRIPTION:第4節
 DTEND:20260829T113000Z
-LOCATION:еѓМе±±зЬМзЈПеРИйБЛеЛХеЕђеЬТйЩЄдЄКзЂґжКАе†і
+LOCATION:富山県総合運動公園陸上競技場
 DTSTART:20260829T093000Z
-SUMMARY:гВЂгВњгГЉгГђеѓМе±±vsиЧ§жЮЭпЉ≠пЉєпЉ¶пЉ£ @еѓМе±±зЬМзЈПеРИйБЛеЛХеЕђеЬТйЩЄдЄКзЂґжКАе†і 18:30〜
-UID:288d950f-3aad-4dab-bec9-2d2d4fb01219@288d.org
+SUMMARY:カターレ富山vs藤枝ＭＹＦＣ @富山県総合運動公園陸上競技場 18:30〜
+UID:27e0b743-65fb-461f-aae6-8f08df134f1f@27e0.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -120,12 +120,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:пЉСеЫЮжИ¶
+DESCRIPTION:1回戦
 DTEND:20260902T120000Z
-LOCATION:зґ≠жЦ∞гБњгВЙгБДгБµгВєгВњгВЄгВҐгГ†
+LOCATION:維新みらいふスタジアム
 DTSTART:20260902T100000Z
-SUMMARY:гГђгГОгГХгВ°е±±еП£пЉ¶пЉ£vsиЧ§жЮЭпЉ≠пЉєпЉ¶пЉ£ @зґ≠жЦ∞гБњгВЙгБДгБµгВєгВњгВЄгВҐгГ† 19:00〜
-UID:776b18a1-2109-4415-be65-2742122d8c01@776b.org
+SUMMARY:レノファ山口ＦＣvs藤枝ＭＹＦＣ @維新みらいふスタジアム 19:00〜
+UID:d2793f61-8dfc-4402-967c-4ee5e6b35586@d279.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -141,12 +141,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:зђђ5зѓА
+DESCRIPTION:第5節
 DTEND:20260905T113000Z
-LOCATION:иЧ§жЮЭзЈПеРИйБЛеЛХеЕђеЬТгВµгГГгВЂгГЉе†і
+LOCATION:藤枝総合運動公園サッカー場
 DTSTART:20260905T093000Z
-SUMMARY:иЧ§жЮЭпЉ≠пЉєпЉ¶пЉ£vsгГігВ°гГ≥гГ©гГЉгГђеЕЂжИЄ @иЧ§жЮЭзЈПеРИйБЛеЛХеЕђеЬТгВµгГГгВЂгГЉе†і 18:30〜
-UID:92eab4db-033a-422a-a218-a498a45d2b67@92ea.org
+SUMMARY:藤枝ＭＹＦＣvsヴァンラーレ八戸 @藤枝総合運動公園サッカー場 18:30〜
+UID:39f95193-547f-4d24-b471-836959853961@39f9.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -162,12 +162,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:зђђ6зѓА
+DESCRIPTION:第6節
 DTEND:20260912T120000Z
-LOCATION:гБДгБ°гБФеЃЃеіОжЦ∞еѓМгВµгГГгВЂгГЉе†і
+LOCATION:いちご宮崎新富サッカー場
 DTSTART:20260912T100000Z
-SUMMARY:гГЖгВ≤гГРгВЄгГ£гГЉгГ≠еЃЃеіОvsиЧ§жЮЭпЉ≠пЉєпЉ¶пЉ£ @гБДгБ°гБФеЃЃеіОжЦ∞еѓМгВµгГГгВЂгГЉе†і 19:00〜
-UID:9e020c92-165c-4b93-b891-9c74fb509320@9e02.org
+SUMMARY:テゲバジャーロ宮崎vs藤枝ＭＹＦＣ @いちご宮崎新富サッカー場 19:00〜
+UID:3b261902-0932-49f9-be4c-f23d36ee6cb3@3b26.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -183,12 +183,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:зђђ7зѓА
+DESCRIPTION:第7節
 DTEND:20260919T113000Z
-LOCATION:иЧ§жЮЭзЈПеРИйБЛеЛХеЕђеЬТгВµгГГгВЂгГЉе†і
+LOCATION:藤枝総合運動公園サッカー場
 DTSTART:20260919T093000Z
-SUMMARY:иЧ§жЮЭпЉ≠пЉєпЉ¶пЉ£vsпЉ≤пЉҐе§ІеЃЃгВҐгГЂгГЗгВ£гГЉгВЄгГ£ @иЧ§жЮЭзЈПеРИйБЛеЛХеЕђеЬТгВµгГГгВЂгГЉе†і 18:30〜
-UID:b8d954ef-9111-4cc9-893c-5bde31f86f06@b8d9.org
+SUMMARY:藤枝ＭＹＦＣvsＲＢ大宮アルディージャ @藤枝総合運動公園サッカー場 18:30〜
+UID:c0b4929e-eefd-4ba7-9b66-4f8454a226c4@c0b4.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -204,12 +204,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:зђђ8зѓА
+DESCRIPTION:第8節
 DTEND:20260926T100000Z
-LOCATION:гВѓгГ©гВµгВєгГЙгГЉгГ†е§ІеИЖ
+LOCATION:クラサスドーム大分
 DTSTART:20260926T080000Z
-SUMMARY:е§ІеИЖгГИгГ™гГЛгГЉгВњvsиЧ§жЮЭпЉ≠пЉєпЉ¶пЉ£ @гВѓгГ©гВµгВєгГЙгГЉгГ†е§ІеИЖ 17:00〜
-UID:ee284278-7d37-45f2-b234-abc12a3d6905@ee28.org
+SUMMARY:大分トリニータvs藤枝ＭＹＦＣ @クラサスドーム大分 17:00〜
+UID:4418c578-90fb-4919-8520-9539d0c9ac18@4418.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -225,12 +225,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:зђђ9зѓА
+DESCRIPTION:第9節
 DTEND:20261003T070000Z
-LOCATION:иЧ§жЮЭзЈПеРИйБЛеЛХеЕђеЬТгВµгГГгВЂгГЉе†і
+LOCATION:藤枝総合運動公園サッカー場
 DTSTART:20261003T050000Z
-SUMMARY:иЧ§жЮЭпЉ≠пЉєпЉ¶пЉ£vsжєШеНЧгГЩгГЂгГЮгГЉгГђ @иЧ§жЮЭзЈПеРИйБЛеЛХеЕђеЬТгВµгГГгВЂгГЉе†і 14:00〜
-UID:92339e16-5ec2-4100-8bd1-25c93223456a@9233.org
+SUMMARY:藤枝ＭＹＦＣvs湘南ベルマーレ @藤枝総合運動公園サッカー場 14:00〜
+UID:3704b3fa-1175-49f5-8d73-1bd96a3ca7ea@3704.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -246,12 +246,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:зђђ10зѓА
+DESCRIPTION:第10節
 DTEND:20261010T070000Z
-LOCATION:йІЕеЙНдЄНеЛХзФ£гВєгВњгВЄгВҐгГ†
+LOCATION:駅前不動産スタジアム
 DTSTART:20261010T050000Z
-SUMMARY:гВµгВђгГ≥й≥•ж†ЦvsиЧ§жЮЭпЉ≠пЉєпЉ¶пЉ£ @йІЕеЙНдЄНеЛХзФ£гВєгВњгВЄгВҐгГ† 14:00〜
-UID:0e1ed841-595f-4741-9b64-e209f89daeb9@0e1e.org
+SUMMARY:サガン鳥栖vs藤枝ＭＹＦＣ @駅前不動産スタジアム 14:00〜
+UID:d92a3f62-5d20-41ba-aca2-e08557d84233@d92a.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -267,12 +267,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:зђђ11зѓА
+DESCRIPTION:第11節
 DTEND:20261017T070000Z
-LOCATION:иЧ§жЮЭзЈПеРИйБЛеЛХеЕђеЬТгВµгГГгВЂгГЉе†і
+LOCATION:藤枝総合運動公園サッカー場
 DTSTART:20261017T050000Z
-SUMMARY:иЧ§жЮЭпЉ≠пЉєпЉ¶пЉ£vsгГҐгГ≥гГЖгГЗгВ£гВ™е±±ељҐ @иЧ§жЮЭзЈПеРИйБЛеЛХеЕђеЬТгВµгГГгВЂгГЉе†і 14:00〜
-UID:26d1efbb-dd6b-4281-a198-0b5f36ed08b1@26d1.org
+SUMMARY:藤枝ＭＹＦＣvsモンテディオ山形 @藤枝総合運動公園サッカー場 14:00〜
+UID:e4d80025-4ef4-4593-8731-a6c1c55363d1@e4d8.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -288,12 +288,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:зђђ12зѓА
+DESCRIPTION:第12節
 DTEND:20261021T120000Z
-LOCATION:пЉ£пЉ©пЉіпЉєгААпЉ¶пЉѓпЉѓпЉіпЉҐпЉ°пЉђпЉђгААпЉ≥пЉіпЉ°пЉіпЉ©пЉѓпЉЃ
+LOCATION:ＣＩＴＹ　ＦＯＯＴＢＡＬＬ　ＳＴＡＴＩＯＮ
 DTSTART:20261021T100000Z
-SUMMARY:ж†ГжЬ®гВЈгГЖгВ£vsиЧ§жЮЭпЉ≠пЉєпЉ¶пЉ£ @пЉ£пЉ©пЉіпЉєгААпЉ¶пЉѓпЉѓпЉіпЉҐпЉ°пЉђпЉђгААпЉ≥пЉіпЉ°пЉіпЉ©пЉѓпЉЃ 19:00〜
-UID:ecac8140-3ec7-419b-9797-93b26d7a5516@ecac.org
+SUMMARY:栃木シティvs藤枝ＭＹＦＣ @ＣＩＴＹ　ＦＯＯＴＢＡＬＬ　ＳＴＡＴＩＯＮ 19:00〜
+UID:e5c6d424-9404-4c2b-b85a-b6471cb8a15f@e5c6.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -309,12 +309,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:зђђ13зѓА
+DESCRIPTION:第13節
 DTEND:20261024T070000Z
-LOCATION:иЧ§жЮЭзЈПеРИйБЛеЛХеЕђеЬТгВµгГГгВЂгГЉе†і
+LOCATION:藤枝総合運動公園サッカー場
 DTSTART:20261024T050000Z
-SUMMARY:иЧ§жЮЭпЉ≠пЉєпЉ¶пЉ£vsеЊ≥е≥ґгГігВ©гГЂгГЖгВ£гВє @иЧ§жЮЭзЈПеРИйБЛеЛХеЕђеЬТгВµгГГгВЂгГЉе†і 14:00〜
-UID:1cddb740-718d-41a9-a55a-038d01d163c7@1cdd.org
+SUMMARY:藤枝ＭＹＦＣvs徳島ヴォルティス @藤枝総合運動公園サッカー場 14:00〜
+UID:8167b779-19e6-4e68-9228-c0e2a64db461@8167.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -330,12 +330,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:зђђ14зѓА
+DESCRIPTION:第14節
 DTEND:20261031T070000Z
-LOCATION:гВљгГ¶гГЉгВєгВњгВЄгВҐгГ†
+LOCATION:ソユースタジアム
 DTSTART:20261031T050000Z
-SUMMARY:гГЦгГ©гВ¶гГЦгГ™гГГгГДзІЛзФ∞vsиЧ§жЮЭпЉ≠пЉєпЉ¶пЉ£ @гВљгГ¶гГЉгВєгВњгВЄгВҐгГ† 14:00〜
-UID:2d1f8004-2157-4004-bf28-731efd300721@2d1f.org
+SUMMARY:ブラウブリッツ秋田vs藤枝ＭＹＦＣ @ソユースタジアム 14:00〜
+UID:742ca0e1-0ece-42cf-af90-0a0a1699b00f@742c.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -351,12 +351,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:зђђ15зѓА
+DESCRIPTION:第15節
 DTEND:20261103T070000Z
-LOCATION:иЧ§жЮЭзЈПеРИйБЛеЛХеЕђеЬТгВµгГГгВЂгГЉе†і
+LOCATION:藤枝総合運動公園サッカー場
 DTSTART:20261103T050000Z
-SUMMARY:иЧ§жЮЭпЉ≠пЉєпЉ¶пЉ£vsгВЄгГ•гГУгГ≠з£РзФ∞ @иЧ§жЮЭзЈПеРИйБЛеЛХеЕђеЬТгВµгГГгВЂгГЉе†і 14:00〜
-UID:6f0847bc-5fdf-43dd-8acf-423b9a34238f@6f08.org
+SUMMARY:藤枝ＭＹＦＣvsジュビロ磐田 @藤枝総合運動公園サッカー場 14:00〜
+UID:2425d027-7a40-4b7d-a030-77e6b042f7fe@2425.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -372,12 +372,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:зђђ16зѓА
+DESCRIPTION:第16節
 DTEND:20261107T070000Z
-LOCATION:гГЛгГГгГСгГДдЄЙгГДж≤ҐзРГжКАе†і
+LOCATION:ニッパツ三ツ沢球技場
 DTSTART:20261107T050000Z
-SUMMARY:ж®™жµЬпЉ¶пЉ£vsиЧ§жЮЭпЉ≠пЉєпЉ¶пЉ£ @гГЛгГГгГСгГДдЄЙгГДж≤ҐзРГжКАе†і 14:00〜
-UID:7699ae2a-ff61-44f6-b22e-a3098e3ad693@7699.org
+SUMMARY:横浜ＦＣvs藤枝ＭＹＦＣ @ニッパツ三ツ沢球技場 14:00〜
+UID:2cc0896a-1ef1-4bb9-96bf-529840ce23fa@2cc0.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -393,12 +393,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:зђђ17зѓА
+DESCRIPTION:第17節
 DTEND:20261114T070000Z
-LOCATION:иЧ§жЮЭзЈПеРИйБЛеЛХеЕђеЬТгВµгГГгВЂгГЉе†і
+LOCATION:藤枝総合運動公園サッカー場
 DTSTART:20261114T050000Z
-SUMMARY:иЧ§жЮЭпЉ≠пЉєпЉ¶пЉ£vsгГігВ°гГ≥гГХгВ©гГЉгГђзФ≤еЇЬ @иЧ§жЮЭзЈПеРИйБЛеЛХеЕђеЬТгВµгГГгВЂгГЉе†і 14:00〜
-UID:2b03f1a3-4119-4be5-b9cf-d5711412189a@2b03.org
+SUMMARY:藤枝ＭＹＦＣvsヴァンフォーレ甲府 @藤枝総合運動公園サッカー場 14:00〜
+UID:3ea1dba0-e919-4fc4-b922-54ce5bc5b422@3ea1.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -414,12 +414,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:зђђ18зѓА
+DESCRIPTION:第18節
 DTEND:20261121T070000Z
-LOCATION:иЧ§жЮЭзЈПеРИйБЛеЛХеЕђеЬТгВµгГГгВЂгГЉе†і
+LOCATION:藤枝総合運動公園サッカー場
 DTSTART:20261121T050000Z
-SUMMARY:иЧ§жЮЭпЉ≠пЉєпЉ¶пЉ£vsпЉ¶пЉ£дїКж≤ї @иЧ§жЮЭзЈПеРИйБЛеЛХеЕђеЬТгВµгГГгВЂгГЉе†і 14:00〜
-UID:471f0a8f-d624-48b7-99d1-6d7543dc32c5@471f.org
+SUMMARY:藤枝ＭＹＦＣvsＦＣ今治 @藤枝総合運動公園サッカー場 14:00〜
+UID:f19a2880-7ce0-47c6-ade2-4f6627a41aa7@f19a.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -435,12 +435,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:зђђ19зѓА
+DESCRIPTION:第19節
 DTEND:20261125T120000Z
-LOCATION:е§ІеТМгГПгВ¶гВє гГЧгГђгГЯгВєгГИгГЙгГЉгГ†
+LOCATION:大和ハウス プレミストドーム
 DTSTART:20261125T100000Z
-SUMMARY:еМЧжµЈйБУгВ≥гГ≥гВµгГЙгГЉгГђжЬ≠еєМvsиЧ§жЮЭпЉ≠пЉєпЉ¶пЉ£ @е§ІеТМгГПгВ¶гВє гГЧгГђгГЯгВєгГИгГЙгГЉгГ† 19:00〜
-UID:d8986abf-e15b-4bc6-afe4-1ed92ae4a91a@d898.org
+SUMMARY:北海道コンサドーレ札幌vs藤枝ＭＹＦＣ @大和ハウス プレミストドーム 19:00〜
+UID:15a9518b-c0ec-435b-8c89-fb4373d4f80d@15a9.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -456,12 +456,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:зђђ20зѓА
+DESCRIPTION:第20節
 DTEND:20261129T060000Z
-LOCATION:гГЧгГ©гВ§гГХгГЉгВЇгВєгВњгВЄгВҐгГ†
+LOCATION:プライフーズスタジアム
 DTSTART:20261129T040000Z
-SUMMARY:гГігВ°гГ≥гГ©гГЉгГђеЕЂжИЄvsиЧ§жЮЭпЉ≠пЉєпЉ¶пЉ£ @гГЧгГ©гВ§гГХгГЉгВЇгВєгВњгВЄгВҐгГ† 13:00〜
-UID:6290b53e-57aa-4935-889c-268af2eb4add@6290.org
+SUMMARY:ヴァンラーレ八戸vs藤枝ＭＹＦＣ @プライフーズスタジアム 13:00〜
+UID:2d7faf9e-8ebe-4aa8-8a4c-242b904de5bc@2d7f.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -477,12 +477,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:зђђ21зѓА
+DESCRIPTION:第21節
 DTEND:20261205T070000Z
-LOCATION:иЧ§жЮЭзЈПеРИйБЛеЛХеЕђеЬТгВµгГГгВЂгГЉе†і
+LOCATION:藤枝総合運動公園サッカー場
 DTSTART:20261205T050000Z
-SUMMARY:иЧ§жЮЭпЉ≠пЉєпЉ¶пЉ£vsгГЦгГ©гВ¶гГЦгГ™гГГгГДзІЛзФ∞ @иЧ§жЮЭзЈПеРИйБЛеЛХеЕђеЬТгВµгГГгВЂгГЉе†і 14:00〜
-UID:a3109ce9-494f-4964-a83a-bfc3ff6b4b33@a310.org
+SUMMARY:藤枝ＭＹＦＣvsブラウブリッツ秋田 @藤枝総合運動公園サッカー場 14:00〜
+UID:65601eb2-b4a4-4712-8a7e-b043bb90f4c9@6560.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -498,12 +498,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:зђђ22зѓА
+DESCRIPTION:第22節
 DTEND:20261212T070000Z
-LOCATION:иЧ§жЮЭзЈПеРИйБЛеЛХеЕђеЬТгВµгГГгВЂгГЉе†і
+LOCATION:藤枝総合運動公園サッカー場
 DTSTART:20261212T050000Z
-SUMMARY:иЧ§жЮЭпЉ≠пЉєпЉ¶пЉ£vsж†ГжЬ®гВЈгГЖгВ£ @иЧ§жЮЭзЈПеРИйБЛеЛХеЕђеЬТгВµгГГгВЂгГЉе†і 14:00〜
-UID:12f9358c-0b09-4e4d-981c-aba7ce835836@12f9.org
+SUMMARY:藤枝ＭＹＦＣvs栃木シティ @藤枝総合運動公園サッカー場 14:00〜
+UID:1ee33ade-df51-4f91-bdde-73a45553cebe@1ee3.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -520,10 +520,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20270220
-DESCRIPTION:зђђ23зѓА
-LOCATION:гГПгГѓгВ§гВҐгГ≥гВЇгВєгВњгВЄгВҐгГ†гБДгВПгБН
-SUMMARY:гБДгВПгБНпЉ¶пЉ£vsиЧ§жЮЭпЉ≠пЉєпЉ¶пЉ£ @гГПгГѓгВ§гВҐгГ≥гВЇгВєгВњгВЄгВҐгГ†гБДгВПгБН жЬ™еЃЪ〜
-UID:4e032490-5afa-4ee4-bff5-f83906bf6d5b@4e03.org
+DESCRIPTION:第23節
+LOCATION:ハワイアンズスタジアムいわき
+SUMMARY:いわきＦＣvs藤枝ＭＹＦＣ @ハワイアンズスタジアムいわき 未定〜
+UID:dca4470f-21fe-4121-ab62-cb30833048ff@dca4.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -540,10 +540,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20270227
-DESCRIPTION:зђђ24зѓА
-LOCATION:иЧ§жЮЭзЈПеРИйБЛеЛХеЕђеЬТгВµгГГгВЂгГЉе†і
-SUMMARY:иЧ§жЮЭпЉ≠пЉєпЉ¶пЉ£vsе§ІеИЖгГИгГ™гГЛгГЉгВњ @иЧ§жЮЭзЈПеРИйБЛеЛХеЕђеЬТгВµгГГгВЂгГЉе†і жЬ™еЃЪ〜
-UID:077ace50-d45f-4201-9429-e4cf8fb8cfa9@077a.org
+DESCRIPTION:第24節
+LOCATION:藤枝総合運動公園サッカー場
+SUMMARY:藤枝ＭＹＦＣvs大分トリニータ @藤枝総合運動公園サッカー場 未定〜
+UID:e2e4f6f9-6465-4ced-a4a4-8d595bdc288a@e2e4.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -560,10 +560,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20270306
-DESCRIPTION:зђђ25зѓА
-LOCATION:гГ§гГЮгГПгВєгВњгВЄгВҐгГ†пЉИз£РзФ∞пЉЙ
-SUMMARY:гВЄгГ•гГУгГ≠з£РзФ∞vsиЧ§жЮЭпЉ≠пЉєпЉ¶пЉ£ @гГ§гГЮгГПгВєгВњгВЄгВҐгГ†пЉИз£РзФ∞пЉЙ жЬ™еЃЪ〜
-UID:23eb775c-0138-4e47-8591-3d87e2ce06b1@23eb.org
+DESCRIPTION:第25節
+LOCATION:ヤマハスタジアム（磐田）
+SUMMARY:ジュビロ磐田vs藤枝ＭＹＦＣ @ヤマハスタジアム（磐田） 未定〜
+UID:eef48ed8-49e9-4832-942f-6fb6f383b325@eef4.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -580,10 +580,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20270313
-DESCRIPTION:зђђ26зѓА
-LOCATION:иЧ§жЮЭзЈПеРИйБЛеЛХеЕђеЬТгВµгГГгВЂгГЉе†і
-SUMMARY:иЧ§жЮЭпЉ≠пЉєпЉ¶пЉ£vsгВЂгВњгГЉгГђеѓМе±± @иЧ§жЮЭзЈПеРИйБЛеЛХеЕђеЬТгВµгГГгВЂгГЉе†і жЬ™еЃЪ〜
-UID:01d5fc45-0cf4-4a6e-86b9-883311a342bd@01d5.org
+DESCRIPTION:第26節
+LOCATION:藤枝総合運動公園サッカー場
+SUMMARY:藤枝ＭＹＦＣvsカターレ富山 @藤枝総合運動公園サッカー場 未定〜
+UID:5523f936-7e98-48d8-b8cf-cd2af21b34ec@5523.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -600,10 +600,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20270317
-DESCRIPTION:зђђ27зѓА
-LOCATION:иЧ§жЮЭзЈПеРИйБЛеЛХеЕђеЬТгВµгГГгВЂгГЉе†і
-SUMMARY:иЧ§жЮЭпЉ≠пЉєпЉ¶пЉ£vsгВµгВђгГ≥й≥•ж†Ц @иЧ§жЮЭзЈПеРИйБЛеЛХеЕђеЬТгВµгГГгВЂгГЉе†і жЬ™еЃЪ〜
-UID:af04579f-11cd-43be-be9c-6531e7ba161a@af04.org
+DESCRIPTION:第27節
+LOCATION:藤枝総合運動公園サッカー場
+SUMMARY:藤枝ＭＹＦＣvsサガン鳥栖 @藤枝総合運動公園サッカー場 未定〜
+UID:686a0334-4116-4aa7-8bac-927fca3c8604@686a.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -620,10 +620,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20270320
-DESCRIPTION:зђђ28зѓА
-LOCATION:гГ¶гВҐгГЖгГГгВѓгВєгВњгВЄгВҐгГ†дїЩеП∞
-SUMMARY:гГЩгВђгГЂгВњдїЩеП∞vsиЧ§жЮЭпЉ≠пЉєпЉ¶пЉ£ @гГ¶гВҐгГЖгГГгВѓгВєгВњгВЄгВҐгГ†дїЩеП∞ жЬ™еЃЪ〜
-UID:ab7226e1-c906-4bb0-b161-dcf7fe1e7b7b@ab72.org
+DESCRIPTION:第28節
+LOCATION:ユアテックスタジアム仙台
+SUMMARY:ベガルタ仙台vs藤枝ＭＹＦＣ @ユアテックスタジアム仙台 未定〜
+UID:0dfcb047-8ca5-42ae-9889-5caf1d127487@0dfc.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -640,10 +640,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20270327
-DESCRIPTION:зђђ29зѓА
-LOCATION:иЧ§жЮЭзЈПеРИйБЛеЛХеЕђеЬТгВµгГГгВЂгГЉе†і
-SUMMARY:иЧ§жЮЭпЉ≠пЉєпЉ¶пЉ£vsж®™жµЬпЉ¶пЉ£ @иЧ§жЮЭзЈПеРИйБЛеЛХеЕђеЬТгВµгГГгВЂгГЉе†і жЬ™еЃЪ〜
-UID:24f0454c-0076-482b-be8f-b9efd590426c@24f0.org
+DESCRIPTION:第29節
+LOCATION:藤枝総合運動公園サッカー場
+SUMMARY:藤枝ＭＹＦＣvs横浜ＦＣ @藤枝総合運動公園サッカー場 未定〜
+UID:1d29404b-20c8-4294-bb4c-b3a79502ce1d@1d29.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -660,10 +660,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20270403
-DESCRIPTION:зђђ30зѓА
-LOCATION:пЉЃпЉ°пЉ£пЉЂпЉХгВєгВњгВЄгВҐгГ†е§ІеЃЃ
-SUMMARY:пЉ≤пЉҐе§ІеЃЃгВҐгГЂгГЗгВ£гГЉгВЄгГ£vsиЧ§жЮЭпЉ≠пЉєпЉ¶пЉ£ @пЉЃпЉ°пЉ£пЉЂпЉХгВєгВњгВЄгВҐгГ†е§ІеЃЃ жЬ™еЃЪ〜
-UID:ee9c38d6-06d5-40ea-a9a3-8a3c7b993eb3@ee9c.org
+DESCRIPTION:第30節
+LOCATION:ＮＡＣＫ５スタジアム大宮
+SUMMARY:ＲＢ大宮アルディージャvs藤枝ＭＹＦＣ @ＮＡＣＫ５スタジアム大宮 未定〜
+UID:0171c1d9-1e62-4f25-9318-66ad0a210996@0171.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -680,10 +680,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20270410
-DESCRIPTION:зђђ31зѓА
-LOCATION:гГђгГҐгГ≥гВђгВєгВєгВњгВЄгВҐгГ†еє≥е°Ъ
-SUMMARY:жєШеНЧгГЩгГЂгГЮгГЉгГђvsиЧ§жЮЭпЉ≠пЉєпЉ¶пЉ£ @гГђгГҐгГ≥гВђгВєгВєгВњгВЄгВҐгГ†еє≥е°Ъ жЬ™еЃЪ〜
-UID:7056b3e0-190d-4b59-82b8-ab18c93712dc@7056.org
+DESCRIPTION:第31節
+LOCATION:レモンガススタジアム平塚
+SUMMARY:湘南ベルマーレvs藤枝ＭＹＦＣ @レモンガススタジアム平塚 未定〜
+UID:c167b58f-1323-4ea4-98f6-d8feae5bca79@c167.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -700,10 +700,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20270417
-DESCRIPTION:зђђ32зѓА
-LOCATION:иЧ§жЮЭзЈПеРИйБЛеЛХеЕђеЬТгВµгГГгВЂгГЉе†і
-SUMMARY:иЧ§жЮЭпЉ≠пЉєпЉ¶пЉ£vsгВҐгГЂгГУгГђгГГгВѓгВєжЦ∞жљЯ @иЧ§жЮЭзЈПеРИйБЛеЛХеЕђеЬТгВµгГГгВЂгГЉе†і жЬ™еЃЪ〜
-UID:1e475b6f-98be-4db1-ba6d-349a49df4c09@1e47.org
+DESCRIPTION:第32節
+LOCATION:藤枝総合運動公園サッカー場
+SUMMARY:藤枝ＭＹＦＣvsアルビレックス新潟 @藤枝総合運動公園サッカー場 未定〜
+UID:06a99f61-183c-4497-8482-9d753b9618a6@06a9.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -720,10 +720,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20270424
-DESCRIPTION:зђђ33зѓА
-LOCATION:пЉЃпЉ§гВљгГХгГИгВєгВњгВЄгВҐгГ†е±±ељҐ
-SUMMARY:гГҐгГ≥гГЖгГЗгВ£гВ™е±±ељҐvsиЧ§жЮЭпЉ≠пЉєпЉ¶пЉ£ @пЉЃпЉ§гВљгГХгГИгВєгВњгВЄгВҐгГ†е±±ељҐ жЬ™еЃЪ〜
-UID:a65152e2-894f-4f61-bbca-ac196a2b4c34@a651.org
+DESCRIPTION:第33節
+LOCATION:ＮＤソフトスタジアム山形
+SUMMARY:モンテディオ山形vs藤枝ＭＹＦＣ @ＮＤソフトスタジアム山形 未定〜
+UID:a6923db6-c1fb-4a17-b7da-0c7a08ae84cf@a692.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -740,10 +740,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20270429
-DESCRIPTION:зђђ34зѓА
-LOCATION:й≥ійЦАгГїе§Іе°ЪгВєгГЭгГЉгГДгГСгГЉгВѓ гГЭгВЂгГ™гВєгВ®гГГгГИгВєгВњгВЄгВҐгГ†
-SUMMARY:еЊ≥е≥ґгГігВ©гГЂгГЖгВ£гВєvsиЧ§жЮЭпЉ≠пЉєпЉ¶пЉ£ @й≥ійЦАгГїе§Іе°ЪгВєгГЭгГЉгГДгГСгГЉгВѓ гГЭгВЂгГ™гВєгВ®гГГгГИгВєгВњгВЄгВҐгГ† жЬ™еЃЪ〜
-UID:c8bf1043-7850-4262-851b-6f414da354b5@c8bf.org
+DESCRIPTION:第34節
+LOCATION:鳴門・大塚スポーツパーク ポカリスエットスタジアム
+SUMMARY:徳島ヴォルティスvs藤枝ＭＹＦＣ @鳴門・大塚スポーツパーク ポカリスエットスタジアム 未定〜
+UID:56b17eb1-5f49-41ec-9077-55a2634f35c0@56b1.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -760,10 +760,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20270503
-DESCRIPTION:зђђ35зѓА
-LOCATION:иЧ§жЮЭзЈПеРИйБЛеЛХеЕђеЬТгВµгГГгВЂгГЉе†і
-SUMMARY:иЧ§жЮЭпЉ≠пЉєпЉ¶пЉ£vsеМЧжµЈйБУгВ≥гГ≥гВµгГЙгГЉгГђжЬ≠еєМ @иЧ§жЮЭзЈПеРИйБЛеЛХеЕђеЬТгВµгГГгВЂгГЉе†і жЬ™еЃЪ〜
-UID:14969228-aaf7-4866-bfa2-28ef43bb1606@1496.org
+DESCRIPTION:第35節
+LOCATION:藤枝総合運動公園サッカー場
+SUMMARY:藤枝ＭＹＦＣvs北海道コンサドーレ札幌 @藤枝総合運動公園サッカー場 未定〜
+UID:0204cfd6-d2b7-4222-b6c5-7651d99d4a5a@0204.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -780,10 +780,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20270509
-DESCRIPTION:зђђ36зѓА
-LOCATION:гВҐгВЈгГГгВѓгВєйЗМе±±гВєгВњгВЄгВҐгГ†
-SUMMARY:пЉ¶пЉ£дїКж≤їvsиЧ§жЮЭпЉ≠пЉєпЉ¶пЉ£ @гВҐгВЈгГГгВѓгВєйЗМе±±гВєгВњгВЄгВҐгГ† жЬ™еЃЪ〜
-UID:06176fe2-f52d-405d-91a0-eacd57e4d2ee@0617.org
+DESCRIPTION:第36節
+LOCATION:アシックス里山スタジアム
+SUMMARY:ＦＣ今治vs藤枝ＭＹＦＣ @アシックス里山スタジアム 未定〜
+UID:aea34277-a845-4545-a539-e789b8754fc2@aea3.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -800,10 +800,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20270515
-DESCRIPTION:зђђ37зѓА
-LOCATION:пЉ™пЉ©пЉігААгГ™гВµгВ§гВѓгГЂгВ§гГ≥гВѓгААгВєгВњгВЄгВҐгГ†
-SUMMARY:гГігВ°гГ≥гГХгВ©гГЉгГђзФ≤еЇЬvsиЧ§жЮЭпЉ≠пЉєпЉ¶пЉ£ @пЉ™пЉ©пЉігААгГ™гВµгВ§гВѓгГЂгВ§гГ≥гВѓгААгВєгВњгВЄгВҐгГ† жЬ™еЃЪ〜
-UID:1d29c5c9-2ca3-4993-9417-9f899798c4c2@1d29.org
+DESCRIPTION:第37節
+LOCATION:ＪＩＴ　リサイクルインク　スタジアム
+SUMMARY:ヴァンフォーレ甲府vs藤枝ＭＹＦＣ @ＪＩＴ　リサイクルインク　スタジアム 未定〜
+UID:ebf34756-6808-4718-a779-b1f2a499079d@ebf3.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -820,9 +820,9 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20270523
-DESCRIPTION:зђђ38зѓА
-LOCATION:иЧ§жЮЭзЈПеРИйБЛеЛХеЕђеЬТгВµгГГгВЂгГЉе†і
-SUMMARY:иЧ§жЮЭпЉ≠пЉєпЉ¶пЉ£vsгГЖгВ≤гГРгВЄгГ£гГЉгГ≠еЃЃеіО @иЧ§жЮЭзЈПеРИйБЛеЛХеЕђеЬТгВµгГГгВЂгГЉе†і жЬ™еЃЪ〜
-UID:2a8b8f31-55bf-439f-84c1-c062e4cf92cc@2a8b.org
+DESCRIPTION:第38節
+LOCATION:藤枝総合運動公園サッカー場
+SUMMARY:藤枝ＭＹＦＣvsテゲバジャーロ宮崎 @藤枝総合運動公園サッカー場 未定〜
+UID:8ef70c23-8339-4e3c-8bde-9791d4e0fe95@8ef7.org
 END:VEVENT
 END:VCALENDAR

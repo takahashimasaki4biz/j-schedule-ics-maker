@@ -15,12 +15,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:з¬¬1зҜҖ
+DESCRIPTION:第1節
 DTEND:20260808T120000Z
-LOCATION:гҒ„гҒЎгҒ”е®®еҙҺж–°еҜҢгӮөгғғгӮ«гғје ҙ
+LOCATION:いちご宮崎新富サッカー場
 DTSTART:20260808T100000Z
-SUMMARY:гғҶгӮІгғҗгӮёгғЈгғјгғӯе®®еҙҺvsжЁӘжөңпјҰпјЈ @гҒ„гҒЎгҒ”е®®еҙҺж–°еҜҢгӮөгғғгӮ«гғје ҙ 19:00〜
-UID:a6046b14-e010-4d97-8f7c-82a8b6745add@a604.org
+SUMMARY:テゲバジャーロ宮崎vs横浜ＦＣ @いちご宮崎新富サッカー場 19:00〜
+UID:4d5ee517-fbb7-4239-b326-0161d62780f5@4d5e.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -36,12 +36,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:з¬¬2зҜҖ
+DESCRIPTION:第2節
 DTEND:20260816T110000Z
-LOCATION:пјӯпјөпјҰпј§гӮ№гӮҝгӮёгӮўгғ
+LOCATION:ＭＵＦＧスタジアム
 DTSTART:20260816T090000Z
-SUMMARY:жЁӘжөңпјҰпјЈvsгӮёгғҘгғ“гғӯзЈҗз”° @пјӯпјөпјҰпј§гӮ№гӮҝгӮёгӮўгғ 18:00〜
-UID:6b47ca46-400b-4407-8af6-71322b2973c6@6b47.org
+SUMMARY:横浜ＦＣvsジュビロ磐田 @ＭＵＦＧスタジアム 18:00〜
+UID:2f2ac83f-bffc-4b48-a3be-0670338c0d4e@2f2a.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -57,12 +57,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:з¬¬3зҜҖ
+DESCRIPTION:第3節
 DTEND:20260822T120000Z
-LOCATION:пј®пјӨгӮҪгғ•гғҲгӮ№гӮҝгӮёгӮўгғ еұұеҪў
+LOCATION:ＮＤソフトスタジアム山形
 DTSTART:20260822T100000Z
-SUMMARY:гғўгғігғҶгғҮгӮЈгӮӘеұұеҪўvsжЁӘжөңпјҰпјЈ @пј®пјӨгӮҪгғ•гғҲгӮ№гӮҝгӮёгӮўгғ еұұеҪў 19:00〜
-UID:b9257c73-8e93-4400-bc1f-37a8655f73fc@b925.org
+SUMMARY:モンテディオ山形vs横浜ＦＣ @ＮＤソフトスタジアム山形 19:00〜
+UID:4a09c77c-3f39-4da3-adb3-6afb3a73f9a7@4a09.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -78,12 +78,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:еӨ©зҡҮжқҜгҖҖпј’еӣһжҲҰ
+DESCRIPTION:天皇杯2回戦
 DTEND:20260826T113000Z
-LOCATION:гғӢгғғгғ‘гғ„дёүгғ„жІўзҗғжҠҖе ҙ
+LOCATION:ニッパツ三ツ沢球技場
 DTSTART:20260826T093000Z
-SUMMARY:жЁӘжөңпјҰпјЈvsжңӘе®ҡ @гғӢгғғгғ‘гғ„дёүгғ„жІўзҗғжҠҖе ҙ 18:30〜
-UID:5f1bcbc9-0ebc-4e72-85b5-3a97393a3423@5f1b.org
+SUMMARY:横浜ＦＣvs未定 @ニッパツ三ツ沢球技場 18:30〜
+UID:22fe5a49-754b-4372-8659-d1e658d8030c@22fe.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -99,12 +99,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:з¬¬4зҜҖ
+DESCRIPTION:第4節
 DTEND:20260829T120000Z
-LOCATION:гғӢгғғгғ‘гғ„дёүгғ„жІўзҗғжҠҖе ҙ
+LOCATION:ニッパツ三ツ沢球技場
 DTSTART:20260829T100000Z
-SUMMARY:жЁӘжөңпјҰпјЈvsгӮөгӮ¬гғійіҘж – @гғӢгғғгғ‘гғ„дёүгғ„жІўзҗғжҠҖе ҙ 19:00〜
-UID:2e44056b-e6bf-4f9a-b253-2007307bce71@2e44.org
+SUMMARY:横浜ＦＣvsサガン鳥栖 @ニッパツ三ツ沢球技場 19:00〜
+UID:353d3669-4236-47c2-a589-2fd21bf36e93@353d.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -120,12 +120,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:пј‘еӣһжҲҰ
+DESCRIPTION:1回戦
 DTEND:20260902T120000Z
-LOCATION:жІ–зё„зңҢз·ҸеҗҲйҒӢеӢ•е…¬ең’йҷёдёҠз«¶жҠҖе ҙ
+LOCATION:沖縄県総合運動公園陸上競技場
 DTSTART:20260902T100000Z
-SUMMARY:пјҰпјЈзҗүзҗғvsжЁӘжөңпјҰпјЈ @жІ–зё„зңҢз·ҸеҗҲйҒӢеӢ•е…¬ең’йҷёдёҠз«¶жҠҖе ҙ 19:00〜
-UID:e325bfd5-4632-4374-b5dc-0837f1428e08@e325.org
+SUMMARY:ＦＣ琉球vs横浜ＦＣ @沖縄県総合運動公園陸上競技場 19:00〜
+UID:4ab08f04-6f08-4433-9ab9-b14e63280366@4ab0.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -141,12 +141,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:з¬¬5зҜҖ
+DESCRIPTION:第5節
 DTEND:20260906T110000Z
-LOCATION:гғӢгғғгғ‘гғ„дёүгғ„жІўзҗғжҠҖе ҙ
+LOCATION:ニッパツ三ツ沢球技場
 DTSTART:20260906T090000Z
-SUMMARY:жЁӘжөңпјҰпјЈvsгӮўгғ«гғ“гғ¬гғғгӮҜгӮ№ж–°жҪҹ @гғӢгғғгғ‘гғ„дёүгғ„жІўзҗғжҠҖе ҙ 18:00〜
-UID:73df4e6d-fea6-4ff3-b3ad-20e2aae7dbc2@73df.org
+SUMMARY:横浜ＦＣvsアルビレックス新潟 @ニッパツ三ツ沢球技場 18:00〜
+UID:7b10805d-0b63-4633-b61b-eb8ebead3697@7b10.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -162,12 +162,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:з¬¬6зҜҖ
+DESCRIPTION:第6節
 DTEND:20260912T110000Z
-LOCATION:гғҸгғҜгӮӨгӮўгғігӮәгӮ№гӮҝгӮёгӮўгғ гҒ„гӮҸгҒҚ
+LOCATION:ハワイアンズスタジアムいわき
 DTSTART:20260912T090000Z
-SUMMARY:гҒ„гӮҸгҒҚпјҰпјЈvsжЁӘжөңпјҰпјЈ @гғҸгғҜгӮӨгӮўгғігӮәгӮ№гӮҝгӮёгӮўгғ гҒ„гӮҸгҒҚ 18:00〜
-UID:fb1f470e-9e11-40fe-997a-01e60c256188@fb1f.org
+SUMMARY:いわきＦＣvs横浜ＦＣ @ハワイアンズスタジアムいわき 18:00〜
+UID:15ea491a-b461-4b6a-a013-6800a1baec81@15ea.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -183,12 +183,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:з¬¬7зҜҖ
+DESCRIPTION:第7節
 DTEND:20260919T120000Z
-LOCATION:гғӢгғғгғ‘гғ„дёүгғ„жІўзҗғжҠҖе ҙ
+LOCATION:ニッパツ三ツ沢球技場
 DTSTART:20260919T100000Z
-SUMMARY:жЁӘжөңпјҰпјЈvsпјҰпјЈд»ҠжІ» @гғӢгғғгғ‘гғ„дёүгғ„жІўзҗғжҠҖе ҙ 19:00〜
-UID:ce3fc441-0707-4fa8-b0da-c87224a065a8@ce3f.org
+SUMMARY:横浜ＦＣvsＦＣ今治 @ニッパツ三ツ沢球技場 19:00〜
+UID:e29689d4-ac50-49ad-a13b-3a7c45d07f20@e296.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -204,12 +204,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:з¬¬8зҜҖ
+DESCRIPTION:第8節
 DTEND:20260926T100000Z
-LOCATION:еҜҢеұұзңҢз·ҸеҗҲйҒӢеӢ•е…¬ең’йҷёдёҠз«¶жҠҖе ҙ
+LOCATION:富山県総合運動公園陸上競技場
 DTSTART:20260926T080000Z
-SUMMARY:гӮ«гӮҝгғјгғ¬еҜҢеұұvsжЁӘжөңпјҰпјЈ @еҜҢеұұзңҢз·ҸеҗҲйҒӢеӢ•е…¬ең’йҷёдёҠз«¶жҠҖе ҙ 17:00〜
-UID:dd1d7754-cc6c-40c2-bef2-7f442901248c@dd1d.org
+SUMMARY:カターレ富山vs横浜ＦＣ @富山県総合運動公園陸上競技場 17:00〜
+UID:b50846df-9f4b-4000-86f6-af3186692150@b508.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -225,12 +225,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:з¬¬9зҜҖ
+DESCRIPTION:第9節
 DTEND:20261004T060000Z
-LOCATION:гғ—гғ©гӮӨгғ•гғјгӮәгӮ№гӮҝгӮёгӮўгғ
+LOCATION:プライフーズスタジアム
 DTSTART:20261004T040000Z
-SUMMARY:гғҙгӮЎгғігғ©гғјгғ¬е…«жҲёvsжЁӘжөңпјҰпјЈ @гғ—гғ©гӮӨгғ•гғјгӮәгӮ№гӮҝгӮёгӮўгғ 13:00〜
-UID:87178715-e179-45c2-b392-26c9913f196e@8717.org
+SUMMARY:ヴァンラーレ八戸vs横浜ＦＣ @プライフーズスタジアム 13:00〜
+UID:fc5a33ad-9268-45f1-90b2-74fd7ea7dacd@fc5a.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -246,12 +246,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:з¬¬10зҜҖ
+DESCRIPTION:第10節
 DTEND:20261010T070000Z
-LOCATION:гғӢгғғгғ‘гғ„дёүгғ„жІўзҗғжҠҖе ҙ
+LOCATION:ニッパツ三ツ沢球技場
 DTSTART:20261010T050000Z
-SUMMARY:жЁӘжөңпјҰпјЈvsеӨ§еҲҶгғҲгғӘгғӢгғјгӮҝ @гғӢгғғгғ‘гғ„дёүгғ„жІўзҗғжҠҖе ҙ 14:00〜
-UID:1444a065-dec9-4079-a35e-a3c76e798f77@1444.org
+SUMMARY:横浜ＦＣvs大分トリニータ @ニッパツ三ツ沢球技場 14:00〜
+UID:3f2897b3-52bb-4216-924f-52c3ca3953a1@3f28.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -267,12 +267,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:з¬¬11зҜҖ
+DESCRIPTION:第11節
 DTEND:20261017T070000Z
-LOCATION:пјЈпј©пјҙпј№гҖҖпјҰпјҜпјҜпјҙпјўпјЎпј¬пј¬гҖҖпјіпјҙпјЎпјҙпј©пјҜпј®
+LOCATION:ＣＩＴＹ　ＦＯＯＴＢＡＬＬ　ＳＴＡＴＩＯＮ
 DTSTART:20261017T050000Z
-SUMMARY:ж ғжңЁгӮ·гғҶгӮЈvsжЁӘжөңпјҰпјЈ @пјЈпј©пјҙпј№гҖҖпјҰпјҜпјҜпјҙпјўпјЎпј¬пј¬гҖҖпјіпјҙпјЎпјҙпј©пјҜпј® 14:00〜
-UID:ac4ff7c7-9eb1-43e9-8816-a394e0c6fd67@ac4f.org
+SUMMARY:栃木シティvs横浜ＦＣ @ＣＩＴＹ　ＦＯＯＴＢＡＬＬ　ＳＴＡＴＩＯＮ 14:00〜
+UID:606131b1-1497-477c-b282-4ec9008568ee@6061.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -288,12 +288,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:з¬¬12зҜҖ
+DESCRIPTION:第12節
 DTEND:20261021T120000Z
-LOCATION:пјӘпј©пјҙгҖҖгғӘгӮөгӮӨгӮҜгғ«гӮӨгғігӮҜгҖҖгӮ№гӮҝгӮёгӮўгғ
+LOCATION:ＪＩＴ　リサイクルインク　スタジアム
 DTSTART:20261021T100000Z
-SUMMARY:гғҙгӮЎгғігғ•гӮ©гғјгғ¬з”ІеәңvsжЁӘжөңпјҰпјЈ @пјӘпј©пјҙгҖҖгғӘгӮөгӮӨгӮҜгғ«гӮӨгғігӮҜгҖҖгӮ№гӮҝгӮёгӮўгғ 19:00〜
-UID:e2d77b69-d369-4bd9-b0bb-93be758b157c@e2d7.org
+SUMMARY:ヴァンフォーレ甲府vs横浜ＦＣ @ＪＩＴ　リサイクルインク　スタジアム 19:00〜
+UID:91855926-1ece-480d-877c-d9f06cabd29c@9185.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -309,12 +309,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:з¬¬13зҜҖ
+DESCRIPTION:第13節
 DTEND:20261024T070000Z
-LOCATION:пј®пјЎпјЈпј«пј•гӮ№гӮҝгӮёгӮўгғ еӨ§е®®
+LOCATION:ＮＡＣＫ５スタジアム大宮
 DTSTART:20261024T050000Z
-SUMMARY:пјІпјўеӨ§е®®гӮўгғ«гғҮгӮЈгғјгӮёгғЈvsжЁӘжөңпјҰпјЈ @пј®пјЎпјЈпј«пј•гӮ№гӮҝгӮёгӮўгғ еӨ§е®® 14:00〜
-UID:472643bc-5b56-4a01-8b90-7eea4a0a86e8@4726.org
+SUMMARY:ＲＢ大宮アルディージャvs横浜ＦＣ @ＮＡＣＫ５スタジアム大宮 14:00〜
+UID:63b417aa-9528-4706-a843-acdf5d2dffb1@63b4.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -330,12 +330,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:з¬¬14зҜҖ
+DESCRIPTION:第14節
 DTEND:20261031T070000Z
-LOCATION:йіҙй–Җгғ»еӨ§еЎҡгӮ№гғқгғјгғ„гғ‘гғјгӮҜ гғқгӮ«гғӘгӮ№гӮЁгғғгғҲгӮ№гӮҝгӮёгӮўгғ
+LOCATION:鳴門・大塚スポーツパーク ポカリスエットスタジアム
 DTSTART:20261031T050000Z
-SUMMARY:еҫіеі¶гғҙгӮ©гғ«гғҶгӮЈгӮ№vsжЁӘжөңпјҰпјЈ @йіҙй–Җгғ»еӨ§еЎҡгӮ№гғқгғјгғ„гғ‘гғјгӮҜ гғқгӮ«гғӘгӮ№гӮЁгғғгғҲгӮ№гӮҝгӮёгӮўгғ 14:00〜
-UID:e7dfebc8-82ea-47e8-93f6-06abda9a818d@e7df.org
+SUMMARY:徳島ヴォルティスvs横浜ＦＣ @鳴門・大塚スポーツパーク ポカリスエットスタジアム 14:00〜
+UID:bf98c991-95ad-4c64-969c-625d1582b68e@bf98.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -351,12 +351,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:з¬¬15зҜҖ
+DESCRIPTION:第15節
 DTEND:20261103T070000Z
-LOCATION:гғӢгғғгғ‘гғ„дёүгғ„жІўзҗғжҠҖе ҙ
+LOCATION:ニッパツ三ツ沢球技場
 DTSTART:20261103T050000Z
-SUMMARY:жЁӘжөңпјҰпјЈvsгғ–гғ©гӮҰгғ–гғӘгғғгғ„з§Ӣз”° @гғӢгғғгғ‘гғ„дёүгғ„жІўзҗғжҠҖе ҙ 14:00〜
-UID:646e860d-47ef-4f9f-961a-fd686b2100a3@646e.org
+SUMMARY:横浜ＦＣvsブラウブリッツ秋田 @ニッパツ三ツ沢球技場 14:00〜
+UID:4cb766a7-542e-4a30-9486-c4fffbff8f43@4cb7.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -372,12 +372,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:з¬¬16зҜҖ
+DESCRIPTION:第16節
 DTEND:20261107T070000Z
-LOCATION:гғӢгғғгғ‘гғ„дёүгғ„жІўзҗғжҠҖе ҙ
+LOCATION:ニッパツ三ツ沢球技場
 DTSTART:20261107T050000Z
-SUMMARY:жЁӘжөңпјҰпјЈvsи—Өжһқпјӯпј№пјҰпјЈ @гғӢгғғгғ‘гғ„дёүгғ„жІўзҗғжҠҖе ҙ 14:00〜
-UID:42cb1f97-2c94-4acf-a41f-4aaaa6711064@42cb.org
+SUMMARY:横浜ＦＣvs藤枝ＭＹＦＣ @ニッパツ三ツ沢球技場 14:00〜
+UID:abfc0c01-8734-4a72-98a9-8177edc56d2f@abfc.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -393,12 +393,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:з¬¬17зҜҖ
+DESCRIPTION:第17節
 DTEND:20261114T070000Z
-LOCATION:гғ¬гғўгғігӮ¬гӮ№гӮ№гӮҝгӮёгӮўгғ е№іеЎҡ
+LOCATION:レモンガススタジアム平塚
 DTSTART:20261114T050000Z
-SUMMARY:ж№ҳеҚ—гғҷгғ«гғһгғјгғ¬vsжЁӘжөңпјҰпјЈ @гғ¬гғўгғігӮ¬гӮ№гӮ№гӮҝгӮёгӮўгғ е№іеЎҡ 14:00〜
-UID:6a55fbfa-a3b3-413c-ae1f-1c611d49ada1@6a55.org
+SUMMARY:湘南ベルマーレvs横浜ＦＣ @レモンガススタジアム平塚 14:00〜
+UID:a891022b-3b21-4cd4-85f6-ad9a4c676fa5@a891.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -414,12 +414,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:з¬¬18зҜҖ
+DESCRIPTION:第18節
 DTEND:20261121T070000Z
-LOCATION:гғӢгғғгғ‘гғ„дёүгғ„жІўзҗғжҠҖе ҙ
+LOCATION:ニッパツ三ツ沢球技場
 DTSTART:20261121T050000Z
-SUMMARY:жЁӘжөңпјҰпјЈvsеҢ—жө·йҒ“гӮігғігӮөгғүгғјгғ¬жңӯе№Ң @гғӢгғғгғ‘гғ„дёүгғ„жІўзҗғжҠҖе ҙ 14:00〜
-UID:60412fe1-3f92-48f4-bf88-1f86f717177d@6041.org
+SUMMARY:横浜ＦＣvs北海道コンサドーレ札幌 @ニッパツ三ツ沢球技場 14:00〜
+UID:e9a337c9-2681-49bb-9530-ae8206d6b905@e9a3.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -435,12 +435,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:з¬¬19зҜҖ
+DESCRIPTION:第19節
 DTEND:20261125T120000Z
-LOCATION:гғӢгғғгғ‘гғ„дёүгғ„жІўзҗғжҠҖе ҙ
+LOCATION:ニッパツ三ツ沢球技場
 DTSTART:20261125T100000Z
-SUMMARY:жЁӘжөңпјҰпјЈvsгғҷгӮ¬гғ«гӮҝд»ҷеҸ° @гғӢгғғгғ‘гғ„дёүгғ„жІўзҗғжҠҖе ҙ 19:00〜
-UID:19b51323-e6a8-4b04-84b0-15576790731a@19b5.org
+SUMMARY:横浜ＦＣvsベガルタ仙台 @ニッパツ三ツ沢球技場 19:00〜
+UID:6accb491-078b-41ef-881b-641f00de6d61@6acc.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -456,12 +456,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:з¬¬20зҜҖ
+DESCRIPTION:第20節
 DTEND:20261129T070000Z
-LOCATION:гӮҪгғҰгғјгӮ№гӮҝгӮёгӮўгғ
+LOCATION:ソユースタジアム
 DTSTART:20261129T050000Z
-SUMMARY:гғ–гғ©гӮҰгғ–гғӘгғғгғ„з§Ӣз”°vsжЁӘжөңпјҰпјЈ @гӮҪгғҰгғјгӮ№гӮҝгӮёгӮўгғ 14:00〜
-UID:152e3d7f-f1d5-4785-a077-afe9ff0a40ee@152e.org
+SUMMARY:ブラウブリッツ秋田vs横浜ＦＣ @ソユースタジアム 14:00〜
+UID:d49fab2c-0a15-4e80-a4c8-a91aad01bdc5@d49f.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -477,12 +477,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:з¬¬21зҜҖ
+DESCRIPTION:第21節
 DTEND:20261205T070000Z
-LOCATION:гғӢгғғгғ‘гғ„дёүгғ„жІўзҗғжҠҖе ҙ
+LOCATION:ニッパツ三ツ沢球技場
 DTSTART:20261205T050000Z
-SUMMARY:жЁӘжөңпјҰпјЈvsгғҙгӮЎгғігғ©гғјгғ¬е…«жҲё @гғӢгғғгғ‘гғ„дёүгғ„жІўзҗғжҠҖе ҙ 14:00〜
-UID:883d2fd9-a4dc-419c-b126-e78339117e56@883d.org
+SUMMARY:横浜ＦＣvsヴァンラーレ八戸 @ニッパツ三ツ沢球技場 14:00〜
+UID:5dea6122-f2db-4613-bd09-da5fc2d1b6ae@5dea.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -498,12 +498,12 @@ DESCRIPTION:
 TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
-DESCRIPTION:з¬¬22зҜҖ
+DESCRIPTION:第22節
 DTEND:20261212T070000Z
-LOCATION:й§…еүҚдёҚеӢ•з”ЈгӮ№гӮҝгӮёгӮўгғ
+LOCATION:駅前不動産スタジアム
 DTSTART:20261212T050000Z
-SUMMARY:гӮөгӮ¬гғійіҘж –vsжЁӘжөңпјҰпјЈ @й§…еүҚдёҚеӢ•з”ЈгӮ№гӮҝгӮёгӮўгғ 14:00〜
-UID:19c00fc6-aaf3-42ac-a59d-86183043fb7f@19c0.org
+SUMMARY:サガン鳥栖vs横浜ＦＣ @駅前不動産スタジアム 14:00〜
+UID:2bad57a6-44bd-4455-842e-e700bbab7356@2bad.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -520,10 +520,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20270220
-DESCRIPTION:з¬¬23зҜҖ
-LOCATION:гғӢгғғгғ‘гғ„дёүгғ„жІўзҗғжҠҖе ҙ
-SUMMARY:жЁӘжөңпјҰпјЈvsпјІпјўеӨ§е®®гӮўгғ«гғҮгӮЈгғјгӮёгғЈ @гғӢгғғгғ‘гғ„дёүгғ„жІўзҗғжҠҖе ҙ жңӘе®ҡ〜
-UID:fbc55bbb-ddb0-43e0-8c7c-50a7e1ed0476@fbc5.org
+DESCRIPTION:第23節
+LOCATION:ニッパツ三ツ沢球技場
+SUMMARY:横浜ＦＣvsＲＢ大宮アルディージャ @ニッパツ三ツ沢球技場 未定〜
+UID:a95cc1d8-5a28-4996-bbed-ea753f262586@a95c.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -540,10 +540,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20270227
-DESCRIPTION:з¬¬24зҜҖ
-LOCATION:гғӢгғғгғ‘гғ„дёүгғ„жІўзҗғжҠҖе ҙ
-SUMMARY:жЁӘжөңпјҰпјЈvsгғўгғігғҶгғҮгӮЈгӮӘеұұеҪў @гғӢгғғгғ‘гғ„дёүгғ„жІўзҗғжҠҖе ҙ жңӘе®ҡ〜
-UID:183339dd-2d4d-4c46-a247-30c03ba46622@1833.org
+DESCRIPTION:第24節
+LOCATION:ニッパツ三ツ沢球技場
+SUMMARY:横浜ＦＣvsモンテディオ山形 @ニッパツ三ツ沢球技場 未定〜
+UID:1b3c5a6a-d9b2-4212-bacd-61a3fb91d405@1b3c.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -560,10 +560,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20270306
-DESCRIPTION:з¬¬25зҜҖ
-LOCATION:гғҰгӮўгғҶгғғгӮҜгӮ№гӮҝгӮёгӮўгғ д»ҷеҸ°
-SUMMARY:гғҷгӮ¬гғ«гӮҝд»ҷеҸ°vsжЁӘжөңпјҰпјЈ @гғҰгӮўгғҶгғғгӮҜгӮ№гӮҝгӮёгӮўгғ д»ҷеҸ° жңӘе®ҡ〜
-UID:ced629aa-f01a-469d-99e1-c599c326b2d6@ced6.org
+DESCRIPTION:第25節
+LOCATION:ユアテックスタジアム仙台
+SUMMARY:ベガルタ仙台vs横浜ＦＣ @ユアテックスタジアム仙台 未定〜
+UID:dfdcd89c-5774-4a1f-b8c8-27307043ca91@dfdc.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -580,10 +580,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20270313
-DESCRIPTION:з¬¬26зҜҖ
-LOCATION:еӨ§е’ҢгғҸгӮҰгӮ№ гғ—гғ¬гғҹгӮ№гғҲгғүгғјгғ
-SUMMARY:еҢ—жө·йҒ“гӮігғігӮөгғүгғјгғ¬жңӯе№ҢvsжЁӘжөңпјҰпјЈ @еӨ§е’ҢгғҸгӮҰгӮ№ гғ—гғ¬гғҹгӮ№гғҲгғүгғјгғ жңӘе®ҡ〜
-UID:09161adc-8167-47fe-aa2e-d44d4d157309@0916.org
+DESCRIPTION:第26節
+LOCATION:大和ハウス プレミストドーム
+SUMMARY:北海道コンサドーレ札幌vs横浜ＦＣ @大和ハウス プレミストドーム 未定〜
+UID:a7b6b38a-eca7-4aa9-b090-91c970342f41@a7b6.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -600,10 +600,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20270317
-DESCRIPTION:з¬¬27зҜҖ
-LOCATION:гғӢгғғгғ‘гғ„дёүгғ„жІўзҗғжҠҖе ҙ
-SUMMARY:жЁӘжөңпјҰпјЈvsгғҶгӮІгғҗгӮёгғЈгғјгғӯе®®еҙҺ @гғӢгғғгғ‘гғ„дёүгғ„жІўзҗғжҠҖе ҙ жңӘе®ҡ〜
-UID:b2af0a6f-9f52-441b-becd-9b972eef23e9@b2af.org
+DESCRIPTION:第27節
+LOCATION:ニッパツ三ツ沢球技場
+SUMMARY:横浜ＦＣvsテゲバジャーロ宮崎 @ニッパツ三ツ沢球技場 未定〜
+UID:35e5892a-89b7-44c8-b110-ff1776d93115@35e5.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -620,10 +620,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20270320
-DESCRIPTION:з¬¬28зҜҖ
-LOCATION:гғӢгғғгғ‘гғ„дёүгғ„жІўзҗғжҠҖе ҙ
-SUMMARY:жЁӘжөңпјҰпјЈvsж№ҳеҚ—гғҷгғ«гғһгғјгғ¬ @гғӢгғғгғ‘гғ„дёүгғ„жІўзҗғжҠҖе ҙ жңӘе®ҡ〜
-UID:b6fd13c6-c261-4735-858f-ee61bede34ed@b6fd.org
+DESCRIPTION:第28節
+LOCATION:ニッパツ三ツ沢球技場
+SUMMARY:横浜ＦＣvs湘南ベルマーレ @ニッパツ三ツ沢球技場 未定〜
+UID:001af855-fce8-4979-88fb-7368a7feb582@001a.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -640,10 +640,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20270327
-DESCRIPTION:з¬¬29зҜҖ
-LOCATION:и—Өжһқз·ҸеҗҲйҒӢеӢ•е…¬ең’гӮөгғғгӮ«гғје ҙ
-SUMMARY:и—Өжһқпјӯпј№пјҰпјЈvsжЁӘжөңпјҰпјЈ @и—Өжһқз·ҸеҗҲйҒӢеӢ•е…¬ең’гӮөгғғгӮ«гғје ҙ жңӘе®ҡ〜
-UID:418879ab-2be7-47d4-9867-0ffcb4e59927@4188.org
+DESCRIPTION:第29節
+LOCATION:藤枝総合運動公園サッカー場
+SUMMARY:藤枝ＭＹＦＣvs横浜ＦＣ @藤枝総合運動公園サッカー場 未定〜
+UID:87fc68e0-5798-4e88-9aef-fc2153e99756@87fc.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -660,10 +660,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20270403
-DESCRIPTION:з¬¬30зҜҖ
-LOCATION:жңӘе®ҡ
-SUMMARY:гӮёгғҘгғ“гғӯзЈҗз”°vsжЁӘжөңпјҰпјЈ @жңӘе®ҡ жңӘе®ҡ〜
-UID:da6d33ae-b153-4278-87bf-55824fa361dc@da6d.org
+DESCRIPTION:第30節
+LOCATION:未定
+SUMMARY:ジュビロ磐田vs横浜ＦＣ @未定 未定〜
+UID:bec622bf-5b6e-4509-83a1-909de69eda31@bec6.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -680,10 +680,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20270410
-DESCRIPTION:з¬¬31зҜҖ
-LOCATION:гғӢгғғгғ‘гғ„дёүгғ„жІўзҗғжҠҖе ҙ
-SUMMARY:жЁӘжөңпјҰпјЈvsеҫіеі¶гғҙгӮ©гғ«гғҶгӮЈгӮ№ @гғӢгғғгғ‘гғ„дёүгғ„жІўзҗғжҠҖе ҙ жңӘе®ҡ〜
-UID:4ab3073c-5b6c-487c-9977-57c16e3a49a7@4ab3.org
+DESCRIPTION:第31節
+LOCATION:ニッパツ三ツ沢球技場
+SUMMARY:横浜ＦＣvs徳島ヴォルティス @ニッパツ三ツ沢球技場 未定〜
+UID:be6916c5-b4df-4338-9a1e-80f470ed81df@be69.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -700,10 +700,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20270417
-DESCRIPTION:з¬¬32зҜҖ
-LOCATION:гӮўгӮ·гғғгӮҜгӮ№йҮҢеұұгӮ№гӮҝгӮёгӮўгғ
-SUMMARY:пјҰпјЈд»ҠжІ»vsжЁӘжөңпјҰпјЈ @гӮўгӮ·гғғгӮҜгӮ№йҮҢеұұгӮ№гӮҝгӮёгӮўгғ жңӘе®ҡ〜
-UID:f3e3e622-1a52-4d5f-af47-ac9fe6e79e17@f3e3.org
+DESCRIPTION:第32節
+LOCATION:アシックス里山スタジアム
+SUMMARY:ＦＣ今治vs横浜ＦＣ @アシックス里山スタジアム 未定〜
+UID:958a4210-5fb3-4521-874a-f195dc7aaf3e@958a.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -720,10 +720,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20270424
-DESCRIPTION:з¬¬33зҜҖ
-LOCATION:гғӢгғғгғ‘гғ„дёүгғ„жІўзҗғжҠҖе ҙ
-SUMMARY:жЁӘжөңпјҰпјЈvsгғҙгӮЎгғігғ•гӮ©гғјгғ¬з”Іеәң @гғӢгғғгғ‘гғ„дёүгғ„жІўзҗғжҠҖе ҙ жңӘе®ҡ〜
-UID:8944f790-29a1-44d7-8f85-037469e4ae77@8944.org
+DESCRIPTION:第33節
+LOCATION:ニッパツ三ツ沢球技場
+SUMMARY:横浜ＦＣvsヴァンフォーレ甲府 @ニッパツ三ツ沢球技場 未定〜
+UID:61da57b7-18dc-47d9-a570-84494836199a@61da.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -740,10 +740,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20270429
-DESCRIPTION:з¬¬34зҜҖ
-LOCATION:гғҮгғігӮ«гғ“гғғгӮ°гӮ№гғҜгғігӮ№гӮҝгӮёгӮўгғ
-SUMMARY:гӮўгғ«гғ“гғ¬гғғгӮҜгӮ№ж–°жҪҹvsжЁӘжөңпјҰпјЈ @гғҮгғігӮ«гғ“гғғгӮ°гӮ№гғҜгғігӮ№гӮҝгӮёгӮўгғ жңӘе®ҡ〜
-UID:9f5c3772-ec45-4588-b1f8-af48c5c7a7fe@9f5c.org
+DESCRIPTION:第34節
+LOCATION:デンカビッグスワンスタジアム
+SUMMARY:アルビレックス新潟vs横浜ＦＣ @デンカビッグスワンスタジアム 未定〜
+UID:d9be7624-0fe2-41a8-b02c-5a85245b7e57@d9be.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -760,10 +760,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20270503
-DESCRIPTION:з¬¬35зҜҖ
-LOCATION:гғӢгғғгғ‘гғ„дёүгғ„жІўзҗғжҠҖе ҙ
-SUMMARY:жЁӘжөңпјҰпјЈvsгҒ„гӮҸгҒҚпјҰпјЈ @гғӢгғғгғ‘гғ„дёүгғ„жІўзҗғжҠҖе ҙ жңӘе®ҡ〜
-UID:3930371b-36c5-4f97-a09e-f7911893d6c0@3930.org
+DESCRIPTION:第35節
+LOCATION:ニッパツ三ツ沢球技場
+SUMMARY:横浜ＦＣvsいわきＦＣ @ニッパツ三ツ沢球技場 未定〜
+UID:297444e1-56ef-45c8-89d4-c263b0fe5325@2974.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -780,10 +780,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20270509
-DESCRIPTION:з¬¬36зҜҖ
-LOCATION:гғӢгғғгғ‘гғ„дёүгғ„жІўзҗғжҠҖе ҙ
-SUMMARY:жЁӘжөңпјҰпјЈvsж ғжңЁгӮ·гғҶгӮЈ @гғӢгғғгғ‘гғ„дёүгғ„жІўзҗғжҠҖе ҙ жңӘе®ҡ〜
-UID:06b5a940-3d87-4cf7-b7ef-666b67ff0d53@06b5.org
+DESCRIPTION:第36節
+LOCATION:ニッパツ三ツ沢球技場
+SUMMARY:横浜ＦＣvs栃木シティ @ニッパツ三ツ沢球技場 未定〜
+UID:11076c00-e4e5-46f6-910f-50d0033915d5@1107.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -800,10 +800,10 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20270515
-DESCRIPTION:з¬¬37зҜҖ
-LOCATION:гӮҜгғ©гӮөгӮ№гғүгғјгғ еӨ§еҲҶ
-SUMMARY:еӨ§еҲҶгғҲгғӘгғӢгғјгӮҝvsжЁӘжөңпјҰпјЈ @гӮҜгғ©гӮөгӮ№гғүгғјгғ еӨ§еҲҶ жңӘе®ҡ〜
-UID:bf782569-4c94-4c2f-b5ac-3746e905a208@bf78.org
+DESCRIPTION:第37節
+LOCATION:クラサスドーム大分
+SUMMARY:大分トリニータvs横浜ＦＣ @クラサスドーム大分 未定〜
+UID:83f2cee1-4bc5-4385-975e-0298c4928876@83f2.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -820,9 +820,9 @@ TRIGGER:-PT3H
 ATTENDEE:
 END:VALARM
 DTSTART;VALUE=DATE:20270523
-DESCRIPTION:з¬¬38зҜҖ
-LOCATION:гғӢгғғгғ‘гғ„дёүгғ„жІўзҗғжҠҖе ҙ
-SUMMARY:жЁӘжөңпјҰпјЈvsгӮ«гӮҝгғјгғ¬еҜҢеұұ @гғӢгғғгғ‘гғ„дёүгғ„жІўзҗғжҠҖе ҙ жңӘе®ҡ〜
-UID:281cb7c7-a383-4488-92c6-6c4d7718bb29@281c.org
+DESCRIPTION:第38節
+LOCATION:ニッパツ三ツ沢球技場
+SUMMARY:横浜ＦＣvsカターレ富山 @ニッパツ三ツ沢球技場 未定〜
+UID:67b4f227-95f5-4513-80fa-6df97a21b2bd@67b4.org
 END:VEVENT
 END:VCALENDAR

@@ -2,6 +2,8 @@
 
 import sys
 import re
+import logging
+import warnings
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
@@ -9,13 +11,12 @@ from pytz import timezone
 from ics import Calendar, Event
 from ics.alarm import EmailAlarm, DisplayAlarm
 
-import warnings
+logging.basicConfig(level=logging.INFO)
 warnings.filterwarnings(
     "ignore",
     category=FutureWarning,
     message="Behaviour of str\\(Component\\) will change in version 0.9"
 )
-
 clubs = [
     "akita",
     "chiba",
@@ -54,7 +55,7 @@ clubs = [
     "nagoya",
     "nara",
     "niigata",
-    "numazu",
+    # "numazu",
     "oita",
     "okayama",
     "omiya",
@@ -63,6 +64,7 @@ clubs = [
     "sanuki",
     "sapporo",
     "sendai",
+    "shiga",
     "shimizu",
     "shonan",
     "tochigi",
@@ -91,7 +93,8 @@ def zen_to_han(text):
 
 def get_soup(url):
     response = requests.get(url)
-    response.encoding = response.apparent_encoding
+    # response.encoding = response.apparent_encoding
+    response.encoding = "utf-8"
     return BeautifulSoup(response.text, "html.parser")
 
 
