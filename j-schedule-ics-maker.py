@@ -100,11 +100,8 @@ def get_soup(url):
 
 
 def get_match_tags1(soup):
-    hiddenS4 = soup.find("div", id="S:4")
-    if not hiddenS4:
-        logging.info(soup)
-    scheduleArea_tag = hiddenS4.find(
-        "div", class_="p-game-schedule__list")
+    scheduleArea_tag = soup.findAll(
+        "div", class_="p-game-schedule__list")[-1]
     return scheduleArea_tag.find_all("div", class_="p-game-schedule__list-item c-container", recursive=False)
 
 
@@ -120,7 +117,11 @@ def get_date(match_tag1):
 
 def get_time(match_tag2):
     time_tag = match_tag2.find("p", class_="m-schedule__time-text")
-    time_text = time_tag.get_text(strip=True)
+    if time_tag:
+        time_text = time_tag.get_text(strip=True)
+    else:
+        time_tag = match_tag2.find("p", class_="m-schedule__status-time")
+        time_text = time_tag.get_text(strip=True)[:5]
     return "未定" if time_text.startswith("未定") else time_text
 
 
@@ -269,10 +270,11 @@ def save_ics_lines(filename, ics_lines):
 def make_ics(clubname, year1, year2):
     filename = f"all-clubs-ics/{clubname}.ics"
     old_ics_lines = load_ics_lines(filename)
-    url = "https://www.jleague.jp/j1/match/search-list/?startdate="
-    url += year1 + "-08-01&enddate="
-    url += year2 + "-07-31&period=month&club="
-    url += clubname
+    url = "https://www.jleague.jp/j1/match/search-list/"
+    url += "?startdate=" + year1 + "-08-01"
+    url += "&enddate=" + year2 + "-07-31"
+    url += "&period=month"
+    url += "&club=" + clubname
     matches = get_matches(url)
     new_ics_lines = get_ics_lines(matches)
     for i, new_ics_line in enumerate(new_ics_lines):
